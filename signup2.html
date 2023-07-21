@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- meta tags -->
+    <meta charset="UTF-8">
+    <meta name="google" content="notranslate">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Area PhoneBook here you can find Blank Page contact number on your area.">
+    <meta name="keywords" content="Area PhoneBook, Phonebook, Blank Page">
+    <meta name="author" content="www.moinulislam.dev">
+    <!-- title tab -->
+    <title>Blank Page &#8212; Area Phonebook a free telephone directory based on your area.</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="resources/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="resources/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="resources/favicon/favicon-16x16.png">
+    <link rel="manifest" href="resources/favicon/site.webmanifest">
+    <!-- bootstrap4 css cdn -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <!-- fontawsom css cdn -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+    <!-- internal css -->
+    <link rel="stylesheet" href="resources/css/style.css">
+    <!-- media query css -->
+    <link rel="stylesheet" href="resources/css/media.css">
+</head>
+
+<body>
+    <header>
+        <div id="nav"></div>
+    </header>
+    <main>
+        <section>
+            <center>
+                <h1>Signup From</h1>
+                <form>
+                    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+                    <select id="type">
+                     <option value="item0">Select Catagory</option>
+                     <option value="item1">জরুরী সেবা</option>
+                     <option value="item2">রক্ত দান</option>
+                     <option value="item3">চিকিৎসা সেবা</option>
+                     <option value="item4">সার্ভিসিং সেন্টার</option>
+                     <option value="item5">শিক্ষা সেবা</option>
+                     <option value="item6">প্রশিক্ষণ কেন্দ্র</option>
+                     <option value="item7">দোকান</option>
+                     <option value="item8">ভাড়া সেবা</option>
+                     <option value="item9">ফুড কর্নার / খাবার দোকান</option>
+                     <option value="item10">স্টুডিও / কম্পিউটার দোকান</option>
+                     <option value="item11">পার্লার / সেলুন</option>
+                     <option value="item12">ডেকোরেটর</option>
+                     <option value="item13">মিস্ত্রী</option>
+                     <option value="item14">হার্ডওয়ার / স্যানিটারি / ইলেকট্রনিক্স</option>
+                     <option value="item15">নাগরিক সেবা</option>
+                     <option value="item16">ব্যাংকিং সেবা</option>
+                     <option value="item17">সেবামূলক সংগঠন</option>
+                     <option value="item18">IT Support</option>
+                  </select>
+                    <br><br>
+                    <select id="size">
+                     <option value="">-- select one -- </option>
+                  </select>
+                    <br><br>
+                    <input type="text" placeholder="দোকান, ব্যক্তি বা কোম্পানির নাম *">
+                    <br><br>
+                    <input type="number" placeholder="ফোন নম্বর *">
+                    <br><br>
+                    <input type="text" placeholder="ই-মেইল, ওয়েবসাইট বা ফেসবুক পেজ লিংক *">
+                    <br><br>
+                    <select>
+                     <option value="">Select Your Ward No</option>
+                     <option value="">1</option>
+                     <option value="">2</option>
+                     <option value="">3</option>
+                     <option value="">4</option>
+                     <option value="">5</option>
+                     <option value="">6</option>
+                     <option value="">7</option>
+                     <option value="">8</option>
+                     <option value="">9</option>
+                     <option value="">অন্যান্য</option>
+                  </select>
+                    <br><br>
+                    <input type="text" placeholder="মার্কেট বা মহল্লার নাম *">
+                    <br><br>
+                    <textarea name="" id="" cols="30" rows="10" placeholder="কি কি সার্ভিস দিয়ে থাকেন তা বিস্তারিত লিখুন *"></textarea>
+                    <br><br>
+                    <a href="#" class="btn btn-primary">SignUp</a>
+                </form>
+            </center>
+
+
+
+
+
+
+
+            <script>
+                $(document).ready(function() {
+                    $("#type").change(function() {
+                        var val = $(this).val();
+                        if (val == "item1") {
+                            $("#size").html("<option value='test'>এ্যাম্বুলেন্স</option><option value='test2'>হাঁসপাতাল</option><option value='test'>বিদ্যুৎ অফিস</option><option value='test'>পুলিশ স্টেশন</option><option value='test'>ফায়ার সার্ভিস</option><option value='test'>গাড়ি ভাড়া</option><option value='test'>সরকারি নোটিশ</option>");
+                        } else if (val == "item2") {
+                            $("#size").html("<option value='test'>ব্লাড ব্যাংক</option><option value='test2'>রক্তদান সংগঠন</option><option value='test2'>রক্তদাতা</option>");
+                        } else if (val == "item3") {
+                            $("#size").html("<option value='test'>ফার্মেসী</option><option value='test2'>পাইকারি মেডিসিন</option><option value='test'>হাসপাতাল</option><option value='test'>ডাক্তার বসেন</option><option value='test'>ডাক্তার ল্যাব</option><option value='test'>হোমিওপ্যাথি</option><option value='test'>ফিজিওথেরাপি</option><option value='test'>হিজামা</option><option value='test'>ডেন্টাল কেয়ার</option><option value='test'>চক্ষু চিকিৎসালয়</option>");
+                        } else if (val == "item4") {
+                            $("#size").html("<option value='test'>item4: test 1</option><option value='test2'>item4: test 2</option>");
+                        } else if (val == "item5") {
+                            $("#size").html("<option value='test'>item5: test 1</option><option value='test2'>item5: test 2</option>");
+                        } else if (val == "item6") {
+                            $("#size").html("<option value='test'>item6: test 1</option><option value='test2'>item6: test 2</option>");
+                        } else if (val == "item7") {
+                            $("#size").html("<option value='test'>item7: test 1</option><option value='test2'>item7: test 2</option>");
+                        } else if (val == "item8") {
+                            $("#size").html("<option value='test'>item8: test 1</option><option value='test2'>item8: test 2</option>");
+                        } else if (val == "item9") {
+                            $("#size").html("<option value='test'>item9: test 1</option><option value='test2'>item9: test 2</option>");
+                        } else if (val == "item10") {
+                            $("#size").html("<option value='test'>item10: test 1</option><option value='test2'>item10: test 2</option>");
+                        } else if (val == "item11") {
+                            $("#size").html("<option value='test'>item11: test 1</option><option value='test2'>item11: test 2</option>");
+                        } else if (val == "item12") {
+                            $("#size").html("<option value='test'>item12: test 1</option><option value='test2'>item12: test 2</option>");
+                        } else if (val == "item13") {
+                            $("#size").html("<option value='test'>item13: test 1</option><option value='test2'>item13: test 2</option>");
+                        } else if (val == "item14") {
+                            $("#size").html("<option value='test'>item14: test 1</option><option value='test2'>item14: test 2</option>");
+                        } else if (val == "item15") {
+                            $("#size").html("<option value='test'>item15: test 1</option><option value='test2'>item15: test 2</option>");
+                        } else if (val == "item16") {
+                            $("#size").html("<option value='test'>item16: test 1</option><option value='test2'>item16: test 2</option>");
+                        } else if (val == "item17") {
+                            $("#size").html("<option value='test'>item17: test 1</option><option value='test2'>item17: test 2</option>");
+                        } else if (val == "item18") {
+                            $("#size").html("<option value='test'>item18: test 1</option><option value='test2'>item18: test 2</option>");
+                        } else if (val == "item0") {
+                            $("#size").html("<option value=''>--select one--</option>");
+                        }
+                    });
+                });
+            </script>
+        </section>
+    </main>
+
+
+
+    <footer>
+        <div id="footer"></div>
+    </footer>
+
+    <!-- bootstrap4 js cdn -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+    <!-- internal js -->
+    <script src="resources/js/iconMove.js"></script>
+    <script src="resources/js/imageZoom.js"></script>
+
+    <!-- components js files -->
+    <script src="components/nav.js"></script>
+
+    <script src="components/signupBtn.js"></script>
+
+    <script src="data/blank-pageData.js"></script>
+    <script src="components/user.js"></script>
+
+    <script src="components/zoomer.js"></script>
+
+    <script src="components/footer.js"></script>
+
+</body>
+
+</html>

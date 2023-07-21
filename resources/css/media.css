@@ -1,0 +1,51 @@
+/* iPad
+@media only screen and (max-width: 1024px) {
+
+    
+    .blog-header-logo {
+        font-size: 20px;
+    }
+    .logo-div {
+        top: 9px;
+    }
+    sup {
+        top: -10px;
+        font-size: 10px;
+    }
+
+}
+*/
+/* iPhone 
+@media only screen and (max-width: 767px) {
+
+    
+    .blog-header-logo {
+        font-size: 18px;
+    }
+    .logo-div {
+        top: 10px;
+    }
+    sup {
+        top: -9px;
+        font-size: 8px;
+    }
+    
+}
+*/
+
+
+
+
+
+
+body.light {
+          --background: white;
+        }
+        body.dark {
+          --background: black;
+        }
+
+        body {
+          color: var(--text);
+          background: var(--background);
+        }

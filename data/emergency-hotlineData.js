@@ -1,0 +1,67 @@
+const userData = [
+  {
+    id: 1,
+    photo: "cdn/emergency-hotline/government-information-and-services.jpg",
+    name: "সরকারী তথ্য ও সেবা",
+    number: "333",
+    detail: "২৪ ঘন্টা পাগলা এলাকার সবচেয়ে নিকটবর্তী এ্যাম্বুলেন্স সার্ভিস। সকল সেবা ঢাকা মেডিকেল ও সমগ্র বাংলাদেশে উন্মুক্ত।",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
+  },
+  {
+    id: 2,
+    photo: "cdn/emergency-hotline/emergency-services.png",
+    name: "জরুরী সেবা",
+    number: "999",
+    detail: "সারা বাংলাদেশে এম্বুলেন্স সার্ভিস দিয়ে থাকে।<br> ২৪ ঘণ্টায় নিয়োজিত ও জরুরি প্রয়োজনে অক্সিজেনের ব্যবস্থা, এসি/ নন এসি, লাশবাহি ফ্রিজিং, আইসিও ও সিসিও এম্বুলেন্স পাওয়া যায়।",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
+  },
+  {
+    id: 3,
+    photo: "cdn/emergency-hotline/prevention-of-violence-against-women-and-children.jpg",
+    name: "নারী ও শিশু নির্যাতন প্রতিরোধ",
+    number: "109",
+    detail: "সারা বাংলাদেশে এম্বুলেন্স সার্ভিস দিয়ে থাকে।<br> ২৪ ঘণ্টায় নিয়োজিত ও জরুরি প্রয়োজনে অক্সিজেনের ব্যবস্থা, এসি/ নন এসি, লাশবাহি ফ্রিজিং, আইসিও ও সিসিও এম্বুলেন্স পাওয়া যায়।",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
+  },
+  {
+    id: 4,
+    photo: "cdn/emergency-hotline/anti-corruption-commission.png",
+    name: "দুর্নীতি দমন কমিশন",
+    number: "106",
+    detail: "সারা বাংলাদেশে এম্বুলেন্স সার্ভিস দিয়ে থাকে।<br> ২৪ ঘণ্টায় নিয়োজিত ও জরুরি প্রয়োজনে অক্সিজেনের ব্যবস্থা, এসি/ নন এসি, লাশবাহি ফ্রিজিং, আইসিও ও সিসিও এম্বুলেন্স পাওয়া যায়।",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
+  },
+  {
+    id: 5,
+    photo: "cdn/emergency-hotline/disaster-warning.png",
+    name: "দূর্যোগের আগাম বার্তা",
+    number: "1090",
+    detail: "সারা বাংলাদেশে এম্বুলেন্স সার্ভিস দিয়ে থাকে।<br> ২৪ ঘণ্টায় নিয়োজিত ও জরুরি প্রয়োজনে অক্সিজেনের ব্যবস্থা, এসি/ নন এসি, লাশবাহি ফ্রিজিং, আইসিও ও সিসিও এম্বুলেন্স পাওয়া যায়।",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
+  },
+  {
+    id: 6,
+    photo: "cdn/emergency-hotline/child-helpline.png",
+    name: "শিশুর সহায়তা ফোন",
+    number: "1098",
+    detail: "সারা বাংলাদেশে এম্বুলেন্স সার্ভিস দিয়ে থাকে।<br> ২৪ ঘণ্টায় নিয়োজিত ও জরুরি প্রয়োজনে অক্সিজেনের ব্যবস্থা, এসি/ নন এসি, লাশবাহি ফ্রিজিং, আইসিও ও সিসিও এম্বুলেন্স পাওয়া যায়।",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
+  },
+  {
+    id: 7,
+    photo: "cdn/emergency-hotline/to-get-land-service-to-complain.jpg",
+    name: "ভূমিসেবা পেতে, অভিযোগ জানাতে",
+    number: "16122",
+    detail: "সারা বাংলাদেশে এম্বুলেন্স সার্ভিস দিয়ে থাকে।<br> ২৪ ঘণ্টায় নিয়োজিত ও জরুরি প্রয়োজনে অক্সিজেনের ব্যবস্থা, এসি/ নন এসি, লাশবাহি ফ্রিজিং, আইসিও ও সিসিও এম্বুলেন্স পাওয়া যায়।",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
+  },
+  {
+    id: 8,
+    photo: "cdn/emergency-hotline/emergency-hotline.jpg",
+    name: "জরুরি হটলাইন",
+    number: "16575",
+    detail: "সারা বাংলাদেশে এম্বুলেন্স সার্ভিস দিয়ে থাকে।<br> ২৪ ঘণ্টায় নিয়োজিত ও জরুরি প্রয়োজনে অক্সিজেনের ব্যবস্থা, এসি/ নন এসি, লাশবাহি ফ্রিজিং, আইসিও ও সিসিও এম্বুলেন্স পাওয়া যায়।",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
+  }
+  
+];
