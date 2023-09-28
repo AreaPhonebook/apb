@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৫",
     location: "শরীফবাগ, কদমতলী রোড",
     detail: "প্রোপাইটরঃ- মীর আব্দুল মান্নান <br>এখানে সকল প্রকার রিক্সা,মিশুক ও আটো গাড়ীর পার্টস পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৫",
     location: "নিশ্চিন্ত পূর",
     detail: "হার্ডওয়্যার স্যানিটারি এন্ড অটো পার্টস পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];

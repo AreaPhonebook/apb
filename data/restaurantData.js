@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৫",
     location: "শাহীবাজার কবরস্থান সংলগ্ন, শাহীবাজার",
     detail: "ফাস্টফুড এন্ড রেস্টুরেন্ট এবং চাইনিজ এর সকল খাবার পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৪",
     location: "হাজী আহসান উদ্দিন সুপার মার্কেট, ২য় তলা, আদর্শ নগর",
     detail: "মানসম্মত ও সুস্বাদু ফাস্টফুড পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -51,7 +51,7 @@ const userData = [
     wordNo: "৫",
     location: "আমতলা মোড়",
     detail: "সকালের নাশতা, দুপুরের খাবার ও রাতে মুরগীর গ্রিল, হালিম, বিরিয়ানি, নান রুটি পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -62,7 +62,7 @@ const userData = [
     wordNo: "৪",
     location: "দেলপাড়া কলেজ রোড",
     detail: "চাইনিজ এর সকল খাবার পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {

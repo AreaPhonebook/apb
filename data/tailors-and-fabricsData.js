@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৪",
     location: "আদর্শ নগর",
     detail: "টেইলার্স এন্ড ফেব্রিক্স",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৪",
     location: "আদর্শ নগর",
     detail: "টেইলার্স",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৬",
     location: "ভাঙ্গাপুল, রসুলপুর",
     detail: "টেইলার্স এন্ড ফেব্রিক্স",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৬",
     location: "বউবাজার, স্টেশন সংলগ্ন",
     detail: "লেডিস এন্ড জেন্টস টেইলার্স",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -51,7 +51,7 @@ const userData = [
     wordNo: "৪",
     location: "নূরবাগ জামে মসজিদ এর বিপরীত পাশে",
     detail: "লেডিস টেইলার্স",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -62,7 +62,7 @@ const userData = [
     wordNo: "৫",
     location: "আমতলা, মদিনা জামে মসজিদের বিপরীত পাশে",
     detail: "লেডিস এন্ড জেন্টস টেইলার্স",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -73,7 +73,7 @@ const userData = [
     wordNo: "৪",
     location: "নুরবাগ চৌরাস্তা",
     detail: "অত্যাধুনিক ডিজাইনের দেশি-বিদেশি বোরকা প্রস্তুতকারক ও পাইকারি বিক্রেতা।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -84,7 +84,7 @@ const userData = [
     wordNo: "৬",
     location: "বৈরাগী বাড়ী মসজিদ সংলগ্ন",
     detail: "এখানে অভিজ্ঞ মাষ্টার দ্বারা আধুনিক রুচি সম্মত পোশাক তৈরী করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -95,7 +95,7 @@ const userData = [
     wordNo: "৪",
     location: "হাজী আহসান উদ্দিন সুপার মার্কেট",
     detail: "এইখানে সকল প্রকার জেন্টস কাপড় বিক্রি ও সেলাই করা হয়। যেমন, শার্ট, প্যান্ট, কোর্ট, টাই, পাঞ্জাবি, পায়জামা, কাবলি, জুব্বা ও কুর্তা ইত্যাদি।<br> বিশেষ করে স্কুল ও কলেজ এর ড্রেস সেলাই করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {

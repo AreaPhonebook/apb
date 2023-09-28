@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৪",
     location: "ইকরা স্কুল সংলগ্ন, কুসুমবাগ",
     detail: "পাইকারি ঔষধ বিক্রি করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৬",
     location: "দেলপাড়া রোড, নয়ামাটি জামে মসজিদ সংলগ্ন",
     detail: "সকল প্রকারের ঔষধ পাওয়া যায় এবং পাইকারি বিক্রি করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৪",
     location: "দেলপাড়া বাজার, দেলপাড়া",
     detail: "দেশি-বিদেশি সকল প্রকার ওষুধ পাইকারী ও খুচরা বিক্রি করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৫",
     location: "নয়ামাটি মুসলিম পাড়া",
     detail: "সকল প্রকারের ঔষধ পাওয়া যায় এবং পাইকারি বিক্রি করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {

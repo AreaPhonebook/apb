@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৪",
     location: "দেলপাড়া কলেজ রোড সংলগ্ন",
     detail: "মোরগ পোলাও, ভুনা খিচুড়ি, গরুর কাচ্চি ও গরুর বিরিয়ানি পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৫",
     location: "আমতলা মোড়",
     detail: "সকালের নাশতা, দুপুরের খাবার ও রাতে মুরগীর গ্রিল, হালিম, বিরিয়ানি, নান রুটি পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৫",
     location: "নয়ামাটি দেলপাড়া রোড, নয়ামাটি ডাল সংলগ্ন",
     detail: "সুস্বাদু বিরিয়ানি, ভুনা খিচুরি, মোরগ পোলাউ পাওয়া যায়। এবং বিভিন্ন অনুষ্ঠানের জন্য অর্ডার সরবরাহ করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৬",
     location: "নয়ামাটি দেলপাড়া রোড",
     detail: "খোকন ভাইয়ের বিরিয়ানির দোকান।<br> অভিজ্ঞ বাবুর্চি ধারা তৈরি বিরিয়ানি ও কাচ্চি পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {

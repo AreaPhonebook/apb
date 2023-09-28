@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৫",
     location: "আমতলা মোড়",
     detail: "গ্রিলের সকল প্রকার কাজ করা হয়",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৬",
     location: "পশ্চিম রসুলপুর, ভাঙ্গাপুল",
     detail: "গ্রিল এর সকল কাজ করা হয় এবং গ্রিল, দরজা, বক্স গেইট, কেচি গেইট, আলমারি, সোকেস ও মেরামত করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৬",
     location: "মধ্য রসুলপুর",
     detail: "বড় শপ গ্রিল সকল কাজ করা করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৪",
     location: "নুরবাগ পুরাতন সি এন জি স্ট্যান্ড, নুরবাগ",
     detail: "গ্রিল এর সকল কাজ করা হয়",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -51,7 +51,7 @@ const userData = [
     wordNo: "৫",
     location: "বউবাজার শাহীবাজার রোড, বউবাজার",
     detail: "গ্রিলের সকল কাজ করা হয় এবং বাসায় গিয়ে কাজ করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   // {
@@ -62,7 +62,7 @@ const userData = [
   //   wordNo: "৬",
   //   location: "দক্ষিণ নয়ামাটি, বাজার সংলগ্ন",
   //   detail: "গ্রীল, এস.এস এর সকল কাজ করা হয়।",
-  //   postLink: "https://www.facebook.com/AreaPhonebook/",
+  //   postLink: "/",
   //   videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   // }
 ];

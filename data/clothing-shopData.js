@@ -6,7 +6,7 @@ const userData = [{
         wordNo: "৫",
         location: "শাহীবাজার, আমতলা রোড",
         detail: "লুঙ্গি, গেঞ্জি ও মেয়েদের কাপড় ও কাপড়ের পিছ এবং পর্দা বিক্রি করা হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -17,7 +17,7 @@ const userData = [{
         wordNo: "৪",
         location: "নুরবাগ চৌরাস্তা",
         detail: "অত্যাধুনিক ডিজাইনের দেশি-বিদেশি বোরকা প্রস্তুতকারক ও পাইকারি বিক্রেতা।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -50,7 +50,7 @@ const userData = [{
         wordNo: "৪",
         location: "হাজী আহসান উদ্দিন সুপার মার্কেট",
         detail: "এইখানে সকল প্রকার জেন্টস কাপড় বিক্রি ও সেলাই করা হয়। যেমন, শার্ট, প্যান্ট, কোর্ট, টাই, পাঞ্জাবি, পায়জামা, কাবলি, জুব্বা ও কুর্তা ইত্যাদি।<br> বিশেষ করে স্কুল ও কলেজ এর ড্রেস সেলাই করা হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {

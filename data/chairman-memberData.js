@@ -7,7 +7,7 @@ const userData = [
     wordNo: "সমগ্র কুতুবপুর",
     location: "কুতুবপুর ইউনিয়ন",
     detail: "কুতুবপুর ইউনিয়ন এর সচিব।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "১, ২, ৩",
     location: "মামুদপুর",
     detail: "কুতুবপুর ইউনিয়ন পরিষদের মহিলা মেম্বার। ওয়ার্ড নং:- ১, ২, ৩",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "১",
     location: "মামুদপুর",
     detail: "কুতুবপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ১",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -51,7 +51,7 @@ const userData = [
     wordNo: "৩",
     location: "ভূইগড়",
     detail: "কুতুবপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৩",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -62,7 +62,7 @@ const userData = [
     wordNo: "৪, ৫, ৬",
     location: "শাহীমহল্লা",
     detail: "কুতুবপুর ইউনিয়ন পরিষদের মহিলা মেম্বার। ওয়ার্ড নং:- ৪, ৫, ৬",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -73,7 +73,7 @@ const userData = [
     wordNo: "৪",
     location: "দেলপাড়া",
     detail: "কুতুবপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৪",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -84,7 +84,7 @@ const userData = [
     wordNo: "৫",
     location: "মুসলিমপাড়া",
     detail: "কুতুবপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৫",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -95,7 +95,7 @@ const userData = [
     wordNo: "৬",
     location: "বউবাজার",
     detail: "কুতুবপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৬",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },    
   {
@@ -106,7 +106,7 @@ const userData = [
     wordNo: "৭,৮,৯",
     location: "শিয়াচর",
     detail: "কুতুবপুর ইউনিয়ন পরিষদের মহিলা মেম্বার। ওয়ার্ড নং:- ৭,৮,৯",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },    
   {
@@ -117,7 +117,7 @@ const userData = [
     wordNo: "৭",
     location: "আলীগঞ্জ",
     detail: "কুতুবপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৭",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },    
   {
@@ -128,7 +128,7 @@ const userData = [
     wordNo: "৮",
     location: "আলীগঞ্জ",
     detail: "কুতুবপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৮",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -139,7 +139,7 @@ const userData = [
     wordNo: "৯",
     location: "শিয়াচর",
     detail: "কুতুবপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৯",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];

@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৫",
     location: "ইকরা স্কুল সংলগ্ন, কুসুম বাগ, চিতাসাল রোড",
     detail: "গ্যাস সিলিন্ডার, চুলার যাবতীয় মালামাল পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৪",
     location: "চিতাসাল, ইকরা স্কুল সংলগ্ন",
     detail: "গ্যাস ও চুলার যাবতীয় মালামাল পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৫",
     location: "শাহী-বাজার কবরস্থান রোড, মুসলিম পাড়া",
     detail: "এখানে এল.পি গ্যাস ও চুলার যাবতীয় মালামাল পাইকারী ও খুচরা বিক্রি করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];

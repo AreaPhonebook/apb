@@ -40,7 +40,7 @@ const userData = [
         wordNo: "৫",
         location: "পূর্ব শাহীমহল্লা",
         detail: "অনির্বান ক্রীড়া সংগঠন একটি ক্রীড়া সংগঠন",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
     {
@@ -51,7 +51,7 @@ const userData = [
         wordNo: "৪",
         location: "মিজ্জা বাড়ি মোড়",
         detail: "কুতুবপুর লাল সবুজ স্পোর্টিং ক্লাব একটি ক্রীড়া সংগঠন",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
     {
@@ -62,7 +62,7 @@ const userData = [
         wordNo: "৫",
         location: "দৌলতপুর",
         detail: "দৌলতপুর ক্রীড়া সংস্থা একটি ক্রীড়া সংগঠন",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
     {
@@ -73,7 +73,7 @@ const userData = [
         wordNo: "সমগ্র কুতুবপুর",
         location: "সমগ্র কুতুবপুর",
         detail: "কুতুবপুর স্পোর্টিং ক্লাব একটি ক্রীড়া সংগঠন",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
     {
@@ -84,7 +84,7 @@ const userData = [
         wordNo: "৪",
         location: "দেলপাড়া",
         detail: "হাজী আমির আলী ক্রিকেট একাডেমি একটি ক্রীড়া সংগঠন",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
     {
@@ -95,7 +95,7 @@ const userData = [
         wordNo: "৫",
         location: "পশ্চিম শাহীমহল্লা",
         detail: "মাতৃছায়া ক্রীড়া চক্র একটি ক্রীড়া সংগঠন",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     },
     {
@@ -117,7 +117,7 @@ const userData = [
         wordNo: "6",
         location: "পশ্চিম নয়ামাটি",
         detail: "সমকাল স্পোটিং ক্লাব একটি ক্রীড়া সংগঠন। খেলার পাশাপাশি সামাজিক অনুষ্ঠান করে থাকি।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
     }
 ];

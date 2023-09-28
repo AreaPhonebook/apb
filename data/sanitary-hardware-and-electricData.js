@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৫",
     location: "নিশ্চিন্ত পূর",
     detail: "হার্ডওয়্যার স্যানিটারি এন্ড অটো পার্টস পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৪",
     location: "আর্দশ নগর",
     detail: "স্যানিটারি হার্ডওয়্যার এন্ড ইলেকট্রিক এর পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৪",
     location: "আদর্শ নগর",
     detail: "ইলেকট্রিক পাইকারি ও খুচরা বিক্রয় কেন্দ্র।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৪",
     location: "আদর্শ নগর",
     detail: "ইলেকট্রনিক ও হার্ডওয়্যার সামগ্রী পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   // {
@@ -51,7 +51,7 @@ const userData = [
   //   wordNo: "৬",
   //   location: "ভাঙ্গাপুল, রসুলপুর",
   //   detail: "এখানে ইলেকট্রনিক এবং হার্ডওয়ার এর সকল পন্য পাওয়া যায় ওয়ালটন এবং ভীসণ এর সকল পন্য পাওয়া যায়।",
-  //   postLink: "https://www.facebook.com/AreaPhonebook/",
+  //   postLink: "/",
   //   videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   // },
   {
@@ -62,7 +62,7 @@ const userData = [
     wordNo: "৬",
     location: "ভাঙ্গাপুল, রসুলপুর",
     detail: "ইলেকট্রিক এন্ড প্লাস্টিক পন্য এর সকল পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -73,7 +73,7 @@ const userData = [
     wordNo: "৬",
     location: "ভাঙ্গাপুল, রসুলপুর",
     detail: "ফার্নিচার এবং ওয়ালটনের এর সকল ইলেকট্রনিক পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -84,7 +84,7 @@ const userData = [
     wordNo: "৬",
     location: "পশ্চিম রসুলপুর, মোল্লা টাওয়ার, রসুলপুর",
     detail: "হার্ডওয়্যার এন্ড ইলেকট্রনিক্স এর সকল পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -95,7 +95,7 @@ const userData = [
     wordNo: "৬",
     location: "মধ্য রসুলপুর",
     detail: "হার্ডওয়ার এন্ড ইলেকট্রনিক্স এর সকল পন্য পাওয়া যায়। এবং ওয়াল্টন এর সকল পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -106,7 +106,7 @@ const userData = [
     wordNo: "৫",
     location: "শাহীবাজার মার্কেট, শাহীবাজার",
     detail: "হার্ডওয়্যার, সেনেটারী পন্য, বার্জার, এশিয়ান পেইন্টস এর ডিলার সকল খুচরা বিক্রি করা হয়। সকল সেবা, হোম সার্ভিস করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -117,7 +117,7 @@ const userData = [
     wordNo: "৬",
     location: "দেলপাড়া রোড, নয়ামাটি জামে মসজিদ সংলগ্ন",
     detail: "হার্ডওয়্যার এন্ড ইলেকট্রনিক্স এর সকল পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -128,7 +128,7 @@ const userData = [
     wordNo: "৪",
     location: "দেলপাড়া বাজার, কমল উদ্দিন প্লাজা, দেলপাড়া",
     detail: "হার্ডওয়্যার এন্ড ইলেকট্রনিক্স এর সকল পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -139,7 +139,7 @@ const userData = [
     wordNo: "৪",
     location: "দেলপাড়া উচ্চ বিদ্যালয় সংলগ্ন",
     detail: "হার্ডওয়্যার, সেনেটারী পন্য ও বার্জার, এশিয়ান পেইন্টস এর এর সকল পন্য পাওয়া যায়। এবং ডিলার প্রয়েন্ট।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -150,7 +150,7 @@ const userData = [
     wordNo: "৬",
     location: "হাজী নুর ইসলাম সুপার মার্কেট, ২য় তলা, পাগলা",
     detail: "SINGER (ডিলার প্রয়েন্ট)এর সকল পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -161,7 +161,7 @@ const userData = [
     wordNo: "৪",
     location: "আদর্শ নগর",
     detail: "ইলেকট্রনিক্স সামগ্রী পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -172,7 +172,7 @@ const userData = [
     wordNo: "৪",
     location: "নুরবাগ নতুন সি এন জি স্ট্যান্ড সংলগ্ন, নুরবাগ",
     detail: "সিসি ক্যামেরা, রাউটার ও ইলেকট্রনিক পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -183,7 +183,7 @@ const userData = [
     wordNo: "৫",
     location: "দৌলত পূর",
     detail: "স্যানিটারি এন্ড এন্টারপ্রাইজ এর সকল পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -194,7 +194,7 @@ const userData = [
     wordNo: "৬",
     location: "কাজী প্লাজা, পাগলা",
     detail: "সকল ইলেকট্রনিক পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -205,7 +205,7 @@ const userData = [
     wordNo: "৪",
     location: "নুরবাগ ভুইগড় রোড, নুরবাগ",
     detail: "বিকাশ, রকেট এবং নিত্য প্রয়োজনীয় ইলেকট্রিক পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -216,7 +216,7 @@ const userData = [
     wordNo: "অন্যান্য",
     location: "জালকুড়ি বাসষ্টান্ড",
     detail: "গ্লাস, স্যানেটারী এন্ড হার্ডওয়্যার এর সকল পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -227,7 +227,7 @@ const userData = [
     wordNo: "৫",
     location: "শাহী বাজার (শাহী মসজিদ সংলগ্ন)",
     detail: "saifhira@gmail.com <br>এখানে বিশ্ব বিখ্যাত জাপানি ব্যান্ড 'Nippon Paints' এবং 'Asian Paints' এর কালার ব্যাংকের সকল প্রকার রংসহ ইলেকট্রিক সেনেটারী এবং হার্ডওয়ার মালামাল সুলভ মূল্যে বিক্রয় করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {

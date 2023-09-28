@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৬",
     location: "রসুলপুর",
     detail: "রসুলপুর ব্লাড ডোনারস একটি রক্তদান সংগঠন।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
   },
   {
@@ -51,7 +51,7 @@ const userData = [
     wordNo: "৩",
     location: "ভূইগড় পশ্চিমপাড়া",
     detail: "ব্লাড ডোনারস সোসাইটি অব ভূইগড়(নারায়ণগঞ্জ) একটি রক্তদান সংগঠন।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
   },
   {
@@ -62,7 +62,7 @@ const userData = [
     wordNo: "সমগ্র কুতুবপুর",
     location: "সমগ্র কুতুবপুর",
     detail: "হিউম্যান রাইটস ব্লাড ডোনার গ্রুপ একটি রক্তদান সংগঠন।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
   },
   {
@@ -73,7 +73,7 @@ const userData = [
     wordNo: "সমগ্র কুতুবপুর",
     location: "সমগ্র কুতুবপুর",
     detail: "লাইফ সেভার্স ব্লাড ডোনেশন গ্রুপ একটি রক্তদান সংগঠন।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
   },
   {
@@ -84,7 +84,7 @@ const userData = [
     wordNo: "সমগ্র কুতুবপুর",
     location: "সমগ্র কুতুবপুর",
     detail: "দেলপাড়া ব্লাড সংগঠন একটি রক্তদান সংগঠন।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
   },
   {

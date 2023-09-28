@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৪",
     location: "দেলপাড়া উচ্চ বিদ্যালয় এর বিপরীত পাশে।",
     detail: "চোখের সকল চিকিৎসা করা হয়। ডাক্তার বসেঃ বিকাল ৪ টা থেকে  রাত ৮ টা পর্যন্ত",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৪",
     location: "নুরবাগ জামে মসজিদ সংলগ্ন, নুরবাগ",
     detail: "ডাক্তার বসে চোখের, মেডিসিন বিশেষজ্ঞ ও চক্ষু।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৫",
     location: "আমতলা মোড়",
     detail: "চোখের ডাক্তার বসে - প্রতি মঙ্গলবার ১০ টা থেকে ৩ টা।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -51,7 +51,7 @@ const userData = [
     wordNo: "৬",
     location: "এ এস এম সুপার মার্কেট, পাগলা",
     detail: "চক্ষু এর সকল চিকিৎসা হয়।<br>প্রতিদিন বিকাল ৫ টা থেকে রাত ৯ টা পর্যন্ত।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {

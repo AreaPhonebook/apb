@@ -6,7 +6,7 @@ const userData = [{
         wordNo: "৫",
         location: "আমতলা মোড়, শাহী মসজিদ সংলগ্ন",
         detail: "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক সনদপ্রাপ্ত।<br> এখানে সকল প্রকার দলিল মুসাবিদা ও রেজিষ্টী করা হয়। নামজারী, পর্চা, দলিল তল্লাশি সহ যাবতীয় ভূমি সংক্রান্ত কাজের আইনি পরামর্শ দেওয়া হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -17,7 +17,7 @@ const userData = [{
         wordNo: "৪",
         location: "আদর্শ নগর",
         detail: "এখানে সকল প্রকার দলিল মুসাবিদা ও রেজিষ্টী করা হয়। এবং সকল আইনি কাজের পরামর্শ দেওয়া হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -28,7 +28,7 @@ const userData = [{
         wordNo: "অন্যান্য",
         location: "জালকুড়ি বাসষ্টান্ড",
         detail: "এখানে সাব-রেজিষ্টী অফিসের জমি জমার দলিল রেজিষ্টীর কাজ করা হয়। এবং জমির মিউটেশন/ নামজারীর কাজ করা হয় ও জমির পর্চা, বায়া দলিলের নকল উঠানো হয়। সরকারি লাইসেন্সপ্রাপ্ত।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {

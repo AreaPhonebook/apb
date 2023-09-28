@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৬",
     location: "মুসলিম মার্কেট, নিউ পপুলার সংলগ্ন, পাগলা",
     detail: "এবি ব্যাংক এর এটিএম বুথ।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৪",
     location: "দেলপাড়া বাজার, দেলপাড়া",
     detail: "ডার্চ বাংলা ব্যাংক, ব্যাংক এশিয়া, সোনালী ব্যাংক, আল-আরাফাত ব্যাংক সহ সরকারি সকল ব্যাংকের সেবা পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },  
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৬",
     location: "মুসলিম মার্কেট, নিউ পপুলার সংলগ্ন, পাগলা",
     detail: "ইউসিবি ব্যাংক এর এটিএম বুথ।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F109240667279751%2Fvideos%2F369014363985895%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৬",
     location: "আলহাজ্ব আফসার করিম ভবন, পাগলা",
     detail: "ডার্চ বাংলা এটিএম বুথ।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -51,7 +51,7 @@ const userData = [
     wordNo: "৬",
     location: "আলহাজ্ব আফসার করিম ভবন, পাগলা",
     detail: "আল-আরাফাহ ইসলামী ব্যাংক এর এটিএম বুথ।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F109240667279751%2Fvideos%2F369014363985895%2F&width=500&show_text=false&height=280&appId"
   }
 ];

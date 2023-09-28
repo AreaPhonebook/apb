@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৪",
     location: "দেলপাড়া বাজার সংলগ্ন",
     detail: "এসি, ফ্রিজ, মাইক্রোওভেন, ওয়াশিং মেশিন সার্ভিসিং করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৫",
     location: "বউবাজার শাহীবাজার রোড, বউবাজার",
     detail: "ফ্রিজ, এসি সার্ভিসিং করা হয়, হোম সার্ভিস করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৬",
     location: "দেলপাড়া রোড, কামালপুর, পাগলা",
     detail: "সকল প্রকার এসি, ফ্রিজ সার্ভিসিং করা হয়।( হোম সার্ভিস করা হয় )।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -51,7 +51,7 @@ const userData = [
     wordNo: "৬",
     location: "পশ্চিম নন্দলালপুর, নাককাটাবাড়ি",
     detail: "01943424501 <br>এখানে সকল প্রকার এসি, ফ্রিজ, মাইক্রোভেন সুদক্ষ টেকনিশিয়ান দ্বারা বাসায় গিয়ে মেরামত করা হয়। <br>পুরাতন ফ্রিজ বা এসি ক্রয়-বিক্রয় করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {

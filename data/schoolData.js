@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৫",
     location: "উত্তর শাহী-মহল্লা",
     detail: "একটি আর্দশ শিক্ষা প্রতিষ্ঠান (প্লে থেকে ৫ম শ্রেণী)।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৫",
     location: "উত্তর-পূর্ব শাহী-মহল্লা",
     detail: "কিন্ডারগার্টেন।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৪",
     location: "আর্দশ নগর",
     detail: "উচ্চ বিদ্যালয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৪",
     location: "আদর্শ নগর",
     detail: "ইসলামিক স্কুল।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -51,7 +51,7 @@ const userData = [
     wordNo: "৫",
     location: "দৌলতপুর, কদমতলী রোড",
     detail: "প্লে - ৯ম শ্রেণী পর্যন্ত শিক্ষা প্রধান করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -84,7 +84,7 @@ const userData = [
     wordNo: "৫",
     location: "শাহী মহল্লা",
     detail: "৩য় শ্রেণী থেকে ৯ম শ্রেণী পর্যন্ত, মানবিক ও ব্যবসায় শিক্ষা শাখায় ভর্তি চলছে।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -95,7 +95,7 @@ const userData = [
     wordNo: "৫",
     location: "শাহী বাজার রোড নুরবাগ",
     detail: "প্লে থেকে পঞ্চম শ্রেনী পর্যন্ত শিক্ষা প্রধান করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -106,7 +106,7 @@ const userData = [
     wordNo: "৫",
     location: "আমতলা, শাহী বাজার",
     detail: "প্লে থেকে নবম শ্রেণী পর্যন্ত শিক্ষা প্রধান করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -117,7 +117,7 @@ const userData = [
     wordNo: "৫",
     location: "কদমতলি পাকার মাথা",
     detail: "প্লে থেকে একাদশ শ্রেণী পর্যন্ত শিক্ষা প্রধান করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -128,7 +128,7 @@ const userData = [
     wordNo: "৫",
     location: "কদমতলি পাকার মাথা",
     detail: "প্লে থেকে একাদশ শ্রেণী পর্যন্ত শিক্ষা প্রধান করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];

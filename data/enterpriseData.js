@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৫",
     location: "চিতাসাল ঢাল, নুরবাগ রোড, রায়হান প্যাকেজিং সংলগ্ন",
     detail: "প্রোপাইটরঃ- মোঃ আতিকুল ইসলাম খোকন <br>এখানে রড, এঙ্গেল, চুড়ি, সিমেন্ট, ইট, বালি, সিপটিন ইত্যাদি নির্মাণ সামগ্রী পাইকারী ও খুচরা বিক্রয় করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৪",
     location: "নুরবাগ নতুন সি এন জি স্ট্যান্ড ব্রিজ সংলগ্ন, নুরবাগ",
     detail: "হার্ডওয়ার, ইলেকট্রিক ও সেনেটারী পন্য খুচরা বিক্রয় করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৫",
     location: "ইকরা স্কুল সংলগ্ন, কুসুম বাগ, চিতাসাল রোড",
     detail: "গ্যাস সিলিন্ডার, চুলার যাবতীয় মালামাল পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৪",
     location: "চিতাসাল, ইকরা স্কুল সংলগ্ন",
     detail: "গ্যাস ও চুলার যাবতীয় মালামাল পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -51,7 +51,7 @@ const userData = [
     wordNo: "৫",
     location: "উত্তর-পূর্ব শাহী-মহল্লা",
     detail: "রড সিমেন্টের দোকান ইত্যাদি নির্মাণ সামগ্রী পাইকারী ও খুচরা বিক্রয় করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -62,7 +62,7 @@ const userData = [
     wordNo: "৫",
     location: "শাহী-বাজার কবরস্থান রোড, মুসলিম পাড়া",
     detail: "এখানে এল.পি গ্যাস ও চুলার যাবতীয় মালামাল পাইকারী ও খুচরা বিক্রি করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -73,7 +73,7 @@ const userData = [
     wordNo: "৪",
     location: "পাগলা ডিএন রোড",
     detail: "এখানে ইট, বালি, শুরকি, রড ও সিমেন্ট ইত্যাদি পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -95,7 +95,7 @@ const userData = [
     wordNo: "৮",
     location: "পিলকুনি, নন্দলালপুর",
     detail: "এখানে উন্নত মানের জিআই তার এবং তারকাটা প্রস্তুত করা এবং বিক্রয় করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -106,7 +106,7 @@ const userData = [
     wordNo: "৭",
     location: "আলীগন্জ (আতিক সাহেবের বাড়ি)",
     detail: "01842317431 <br>choicenterprize@gmail.com <br>পাইকারী বিক্রেতা/সরবারহকারী টিস্যু ফুড & বেভারেজ পুরাতন গাড়ি ক্রয়/বিক্রয় এবং ইমারতি মাল বিক্রেতা ও সরবারহ কারী।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];

@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৪",
     location: "আর্দশ নগর",
     detail: "স্টিল এন্ড প্লাস্টিক ডোর স্টোর বিক্রয় করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৫",
     location: "শাহীবাজার, এলি মেম্বার বাড়ি সংলগ্ন",
     detail: "এখানে উন্নত মানের প্লাস্টিক ডোর বিক্রি করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৬",
     location: "পাগলা বাজার, গ্রীন ডেলটা হাসপাতাল এর নিচ তলা।",
     detail: "ভালো মানের টাইলস ও ডোর পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "অন্যান্য",
     location: "মাতুয়াইল মেডিকেল রোড, মাতুয়াইল",
     detail: "পাইকারি ও সূলভ্য মূল্যে দরজা ও ফার্নিচার বিক্রি করা হয় । বিক্রিত পন্য ফেরত নেওয়া হয়।<br> অফিস ও শো-রুমঃ জোড়াখাম্বা রায়ের বাগ, কদমতলি ঢাকা।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -51,7 +51,7 @@ const userData = [
     wordNo: "৪",
     location: "চিতাশাল ব্রিজ সংলগ্ন",
     detail: "সকল ধরনের প্লাষ্টিক ডোর পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];

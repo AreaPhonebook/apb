@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৬",
     location: "বউবাজার",
     detail: "সকল পাইকারি পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৫",
     location: "উত্তর-পূর্ব শাহী-মহল্লা",
     detail: "সকল পাইকারি পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৬",
     location: "ডি এন রোড, পাগলা",
     detail: "01679600590<br> সকল প্রকারের পাইকারি পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৫",
     location: "নিশ্চিন্ত পূর",
     detail: "পাইকারি দোকান।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -51,7 +51,7 @@ const userData = [
     wordNo: "৬",
     location: "পাগলা বাজার",
     detail: "01626803314<br> এখানে দেশী-বিদেশী কসমেটিক এবং যে কোন অনুষ্ঠানের যাবতীয় মুদি মালামাল সুলভ মূল্যে পাওয়া যায়। কসমেটিক এবং ষ্টেশনারী সামগ্রী পাইকারী ও খুচরা বিক্রয় করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -62,7 +62,7 @@ const userData = [
     wordNo: "৬",
     location: "ইসলামিয়া বাজার (বৌ-বাজার)",
     detail: "smmasum57@gmail.com<br> সকল প্রকার মুদি পণ্য পাইকারী পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -84,7 +84,7 @@ const userData = [
     wordNo: "৬",
     location: "দেলপাড়া রোড,পাগলা",
     detail: "সকল প্রকার চাল পাইকারি ও খুচরা বিক্রেতা কেন্দ্র।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -95,7 +95,7 @@ const userData = [
     wordNo: "৭",
     location: "আলীগন্জ (আতিক সাহেবের বাড়ি)",
     detail: "01842317431 <br>choicenterprize@gmail.com <br>পাইকারী বিক্রেতা/সরবারহকারী টিস্যু ফুড & বেভারেজ পুরাতন গাড়ি ক্রয়/বিক্রয় এবং ইমারতি মাল বিক্রেতা ও সরবারহ কারী।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];

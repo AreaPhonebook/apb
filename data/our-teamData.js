@@ -35,7 +35,7 @@ function userTemplate(user) {
             <a href="resources/icons/team/rabiul-islam.jpg"><img src="resources/icons/team/rabiul-islam.jpg" alt="rabiul islam" class="team-img"></a>
             <h2>Rabiul Islam</h2>
             <p class="text-center">Web Developer</p>
-            <a href="mailto:areaphonebook@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
+            <a href="mailto:usermoin@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
             <a href="https://github.com/rabiulislam-xyz" target="_blank"><i class="fab fa-github-square"></i></a>
             <a href="https://www.facebook.com/rabiulislam.xyz" target="_blank"><i class="fab fa-facebook-square"></i></a>
         </div>

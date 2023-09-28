@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৬",
     location: "বউবাজার রেললাইন সংলগ্ন",
     detail: "হোটেল ও মিষ্টি পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৪",
     location: "দেলপাড়া বাজার, দেলপাড়া",
     detail: "মিষ্টি ও বেকারি এর সকল পন্য।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৬",
     location: "পাগলা বাজার",
     detail: "প্রসিদ্ধ দধি, মিষ্টি, রসমালাই, সন্ডেন প্যারা, সন্ডেস ক্ষিরা, লাড্ডু, জর্দা মিষ্টি, ঘি বিক্রেতা ও সরবরাহকারি।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৫",
     location: "আদর্শ নগর",
     detail: "মিষ্টি ও বেকারি এর সকল পন্য।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];

@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৫",
     location: "শাহীবাজার, পাগলা",
     detail: "লোকাল ট্রাক ভাড়া দেওয়া হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "6",
     location: "তাল-তলা, পাগলা",
     detail: "ডিস্ট্রিক্ট ট্রাক, ট্রাক ভাড়া দেওয়া হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];

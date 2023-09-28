@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৪",
     location: "নুরবাগ পুরাতন সিএনজি স্ট্যান্ড",
     detail: "সিএনজি, অটো, মিশুক সার্ভিসিং করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৪",
     location: "দেলপাড়া খেলার মাঠ",
     detail: "farukislam9050@gmail.com <br>এখানে সুদক্ক মিস্ত্রী ধারা অটোর জাবতি & ওয়েলডিং এর সব ধরনের কাজ করা হয়। <br> ব্যাটারি চালিত অটো রিচার্জ ও সার্ভিসিং সেন্টার এবং অটো রিজার্ভ ভাড়া দেওয়া হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];

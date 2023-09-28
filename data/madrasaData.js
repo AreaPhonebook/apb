@@ -6,7 +6,7 @@ const userData = [{
         wordNo: "৫",
         location: "উত্তর শাহী-মহল্লা",
         detail: "হেফজ খানা ও মহিলা মাদ্রাসা।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -17,7 +17,7 @@ const userData = [{
         wordNo: "৪",
         location: "আদর্শ নগর",
         detail: "হেফজ খানা ও মাদ্রাসা।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -28,7 +28,7 @@ const userData = [{
         wordNo: "৪",
         location: "আর্দশ নগর",
         detail: "মহিলা মাদ্রাসা।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -39,7 +39,7 @@ const userData = [{
         wordNo: "৮",
         location: "পিলকুনী",
         detail: "মাদ্রাসা ও এতিমখানা।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -50,7 +50,7 @@ const userData = [{
         wordNo: "৫",
         location: "কদমতলী পাকার মাথা ব্রিজ সংলগ্ন, পশ্চিম দৌলতপুর",
         detail: "হেফজ খানা ও মাদ্রাসা।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -61,7 +61,7 @@ const userData = [{
         wordNo: "৪",
         location: "নুরবাগ জামে মসজিদ সংলগ্ন, নুরবাগ",
         detail: "কেডেত শাখা, কিতাব খানা, হেফজ খানা, নুরানি শাখা, এতিম খান, মহিলা মাদ্রাসা (প্রথম শ্রেনি থেকে তাকমিল)।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -72,7 +72,7 @@ const userData = [{
         wordNo: "৫",
         location: "কদমতলী পাকার মাথা",
         detail: "ইবতেদায়ী প্লে থেকে আলিম শ্রেণী পর্যন্ত, মানবিক ও বিজ্ঞান বিভাগ, আবাসিক-অনাবাসিক ডে কেয়ার।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {

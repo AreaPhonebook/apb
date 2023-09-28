@@ -94,7 +94,7 @@ const userData = [{
     wordNo: "৬",
     bloodGroup: "B+",
     detail: "রসুলপুর <br>রক্তের গ্রুপঃ বি পজিটিভ।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -105,7 +105,7 @@ const userData = [{
     wordNo: "৫",
     bloodGroup: "B-",
     detail: "পূর্ব শাহী মহল্লা <br>রক্তের গ্রুপঃ বি নেগেটিভ।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -127,7 +127,7 @@ const userData = [{
     wordNo: "৮",
     bloodGroup: "AB+",
     detail: "নন্দলালপুর মসজিদ গলি<br> রক্তের গ্রুপঃ এবি পজিটিভ <br>tahminfahim4@gmail.com",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -138,7 +138,7 @@ const userData = [{
     wordNo: "৫",
     bloodGroup: "O+",
     detail: "নূরবাগ <br> রক্তের গ্রুপঃ ও পজিটিভ <br>nurshibly16@gmail.com",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -160,7 +160,7 @@ const userData = [{
     wordNo: "৬",
     bloodGroup: "O+",
     detail: "নয়ামাটি <br> রক্তের গ্রুপঃ ও পজিটিভ",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -171,7 +171,7 @@ const userData = [{
     wordNo: "৬",
     bloodGroup: "O+",
     detail: "পশ্চিম রসুলপুর<br> রক্তের গ্রুপঃ ও পজিটিভ",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -182,7 +182,7 @@ const userData = [{
     wordNo: "৬",
     bloodGroup: "O+",
     detail: "রসুলপুর <br> Sabrinatuli1991@gmail<br> রক্তের গ্রুপঃ ও পজিটিভ",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -193,7 +193,7 @@ const userData = [{
     wordNo: "৪",
     bloodGroup: "O+",
     detail: "দেলপাড়া টাওয়ার পাড়<br> রক্তের গ্রুপঃ ও পজিটিভ",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -204,7 +204,7 @@ const userData = [{
     wordNo: "অন্যান্য",
     bloodGroup: "AB+",
     detail: "শনির আখড়া, ঢাকা <br> রক্তের গ্রুপঃ এবি পজিটিভ",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -226,7 +226,7 @@ const userData = [{
     wordNo: "৪",
     bloodGroup: "A+",
     detail: "দেলপাড়া <br> রক্তের গ্রুপঃ এ পজিটিভ",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -237,7 +237,7 @@ const userData = [{
     wordNo: "৬",
     bloodGroup: "AB+",
     detail: "নয়ামাটি <br> রক্তের গ্রুপঃ এবি পজিটিভ",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -259,7 +259,7 @@ const userData = [{
     wordNo: "৫",
     bloodGroup: "B+",
     detail: "মুসলিমপাড়া <br> রক্তের গ্রুপঃ বি পজিটিভ",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -270,7 +270,7 @@ const userData = [{
     wordNo: "৬",
     bloodGroup: "A+",
     detail: "কামালপুর <br> রক্তের গ্রুপঃ এ পজিটিভ",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -281,7 +281,7 @@ const userData = [{
     wordNo: "৫",
     bloodGroup: "B+",
     detail: "শাহীবাজার <br> রক্তের গ্রুপঃ বি পজিটিভ",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -292,7 +292,7 @@ const userData = [{
     wordNo: "৬",
     bloodGroup: "B+",
     detail: "বউবাজার <br> রক্তের গ্রুপঃ বি পজিটিভ",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -303,7 +303,7 @@ const userData = [{
     wordNo: "৫",
     bloodGroup: "A+",
     detail: "শাহীবাজার <br> রক্তের গ্রুপঃ এ পজিটিভ",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -314,7 +314,7 @@ const userData = [{
     wordNo: "৪",
     bloodGroup: "AB+",
     detail: "পূর্ব দেলপাড়া <br> রক্তের গ্রুপঃ এবি পজিটিভ",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -347,7 +347,7 @@ const userData = [{
     wordNo: "৫",
     bloodGroup: "B+",
     detail: "শাহীবাজার কবরস্থান <br> রক্তের গ্রুপঃ বি পজিটিভ",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -358,7 +358,7 @@ const userData = [{
     wordNo: "৬",
     bloodGroup: "AB+",
     detail: "দেলপাড়া <br> simantotanvir642gmail.com<br> রক্তের গ্রুপঃ এবি পজিটিভ",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 
@@ -466,7 +466,7 @@ const userData = [{
     wordNo: "৬",
     bloodGroup: "রক্তদাতা",
     detail: "পাগলা, রেললাইন",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -477,7 +477,7 @@ const userData = [{
     wordNo: "৬",
     bloodGroup: "রক্তদাতা",
     detail: "পশ্চিম রসুলপুর",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 {
@@ -499,7 +499,7 @@ const userData = [{
     wordNo: "৩",
     bloodGroup: "রক্তদাতা ",
     detail: "ভূইগড় <br>ystv52@gmail.com",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
 },
 ];

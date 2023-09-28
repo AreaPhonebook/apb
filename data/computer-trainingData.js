@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৪",
     location: "আর্দশ নগর",
     detail: "কম্পিউটার ট্রেনিং সেন্টার স্টুডিও এন্ড সাইবার ক্যাফে।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
  },
  {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৪",
     location: "দেলপাড়া উচ্চ বিদ্যালয় সংলগ্ন",
     detail: "কম্পিউটার ট্রেনিং, কম্পিউটার সার্ভিসিং ও কম্পিউটারের সকল সরঞ্জাম পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
  },
  {

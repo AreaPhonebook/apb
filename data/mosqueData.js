@@ -6,7 +6,7 @@ const userData = [{
         wordNo: "৪",
         location: "দেলপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য দেয়া হয় ইনশাআল্লাহ নামাজ সহ সকল নূরানী সহীহ সুদ্ধ ভাবে কোরআন পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -17,7 +17,7 @@ const userData = [{
         wordNo: "৫",
         location: "শাহী বাজার আমতলা",
         detail: "ধার্মিক বিষয় সকল তথ্য দেয়া হয় ইনশাআল্লাহ নামাজ সহ সকল নূরানী সহীহ সুদ্ধ ভাবে কোরআন পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -28,7 +28,7 @@ const userData = [{
         wordNo: "৬",
         location: "পাগলা বাজার",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -39,7 +39,7 @@ const userData = [{
         wordNo: "৬",
         location: "পাগলা বাজার",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -50,7 +50,7 @@ const userData = [{
         wordNo: "৬",
         location: "তালতলা",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -61,7 +61,7 @@ const userData = [{
         wordNo: "৬",
         location: "তালতলা",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -72,7 +72,7 @@ const userData = [{
         wordNo: "6",
         location: "দক্ষিণ নায়ামাটি",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -83,7 +83,7 @@ const userData = [{
         wordNo: "৬",
         location: "পশ্চিম নায়ামাটি",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -94,7 +94,7 @@ const userData = [{
         wordNo: "৬",
         location: "প্যারাডাইস সিটি",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -105,7 +105,7 @@ const userData = [{
         wordNo: "৬",
         location: "পাগলা পূর্বপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -116,7 +116,7 @@ const userData = [{
         wordNo: "৫",
         location: "মুসলিমপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -127,7 +127,7 @@ const userData = [{
         wordNo: "৬",
         location: "নয়ামাটি",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -138,7 +138,7 @@ const userData = [{
         wordNo: "৫",
         location: "মুসলিমপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -149,7 +149,7 @@ const userData = [{
         wordNo: "৫",
         location: "উত্তর রসুলপুর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -160,7 +160,7 @@ const userData = [{
         wordNo: "৬",
         location: "রসুলপুর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -171,7 +171,7 @@ const userData = [{
         wordNo: "৬",
         location: "রসুলপুর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -182,7 +182,7 @@ const userData = [{
         wordNo: "৬",
         location: "রসুলপুর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -193,7 +193,7 @@ const userData = [{
         wordNo: "৫",
         location: "পশ্চিম রসুলপুর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -204,7 +204,7 @@ const userData = [{
         wordNo: "৬",
         location: "দক্ষিন রসুলপুর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -215,7 +215,7 @@ const userData = [{
         wordNo: "৫",
         location: "পশ্চিম রসুলপুর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -226,7 +226,7 @@ const userData = [{
         wordNo: "৬",
         location: "বৌ বাজার",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -259,7 +259,7 @@ const userData = [{
         wordNo: "৬",
         location: "পাগলা উচ্চ বিদ্যালয়",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -270,7 +270,7 @@ const userData = [{
         wordNo: "৬",
         location: "পূর্ব রসুলপুর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -281,7 +281,7 @@ const userData = [{
         wordNo: "৫",
         location: "শরীফবাগ",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -292,7 +292,7 @@ const userData = [{
         wordNo: "৫",
         location: "শরীফবাগ রোড",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -303,7 +303,7 @@ const userData = [{
         wordNo: "৫",
         location: "শাহীবাজার কবরস্থান",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -314,7 +314,7 @@ const userData = [{
         wordNo: "৫",
         location: "শাহী বাজার",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -325,7 +325,7 @@ const userData = [{
         wordNo: "৫",
         location: "পূর্ব শাহীমহল্লা",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -336,7 +336,7 @@ const userData = [{
         wordNo: "৫",
         location: "পূর্ব শাহী মহল্লা",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -347,7 +347,7 @@ const userData = [{
         wordNo: "৫",
         location: "পূর্ব শাহী মহল্লা",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -358,7 +358,7 @@ const userData = [{
         wordNo: "৭",
         location: "আলিগঞ্জ",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -369,7 +369,7 @@ const userData = [{
         wordNo: "৭",
         location: "আলিগঞ্জ",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -380,7 +380,7 @@ const userData = [{
         wordNo: "৭",
         location: "আলিগঞ্জ",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -391,7 +391,7 @@ const userData = [{
         wordNo: "৮",
         location: "পিলকুনি মোল্লা বাড়ি",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -402,7 +402,7 @@ const userData = [{
         wordNo: "৮",
         location: "নন্দলালপুর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -413,7 +413,7 @@ const userData = [{
         wordNo: "৮",
         location: "পশ্চিম  নন্দলালপুর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -424,7 +424,7 @@ const userData = [{
         wordNo: "৮",
         location: "নন্দলালপুর কবরস্থান",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -435,7 +435,7 @@ const userData = [{
         wordNo: "৮",
         location: "নন্দলালপুর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -446,7 +446,7 @@ const userData = [{
         wordNo: "৮",
         location: "নন্দলালপুর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -457,7 +457,7 @@ const userData = [{
         wordNo: "৮",
         location: "নন্দলালপুর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -468,7 +468,7 @@ const userData = [{
         wordNo: "৮",
         location: "নন্দলালপুর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -479,7 +479,7 @@ const userData = [{
         wordNo: "৪",
         location: "দক্ষিন দেলপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -490,7 +490,7 @@ const userData = [{
         wordNo: "৪",
         location: "দক্ষিন দেলপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -501,7 +501,7 @@ const userData = [{
         wordNo: "৪",
         location: "দেলপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -512,7 +512,7 @@ const userData = [{
         wordNo: "৪",
         location: "দেলপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -523,7 +523,7 @@ const userData = [{
         wordNo: "৪",
         location: "দেলপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -534,7 +534,7 @@ const userData = [{
         wordNo: "৪",
         location: "উত্তর দেলপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -545,7 +545,7 @@ const userData = [{
         wordNo: "৪",
         location: "পূর্ব দেলপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -556,7 +556,7 @@ const userData = [{
         wordNo: "৪",
         location: "দেলপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -567,7 +567,7 @@ const userData = [{
         wordNo: "৪",
         location: "দক্ষিন দেলপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -578,7 +578,7 @@ const userData = [{
         wordNo: "৪",
         location: "দেলপাড়া উচ্চ বিদ্যালয়",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -589,7 +589,7 @@ const userData = [{
         wordNo: "৪",
         location: "পশ্চিম দেলপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -600,7 +600,7 @@ const userData = [{
         wordNo: "৪",
         location: "দেলপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -611,7 +611,7 @@ const userData = [{
         wordNo: "৪",
         location: "উত্তর দেলপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -622,7 +622,7 @@ const userData = [{
         wordNo: "৪",
         location: "পশ্চিম দেলপাড়া খালপার",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -633,7 +633,7 @@ const userData = [{
         wordNo: "৪",
         location: "কুসুমবাগ",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -644,7 +644,7 @@ const userData = [{
         wordNo: "৪",
         location: "কুসুমবাগ",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -655,7 +655,7 @@ const userData = [{
         wordNo: "৪",
         location: "কুসুমবাগ",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -666,7 +666,7 @@ const userData = [{
         wordNo: "৪",
         location: "কুসুমবাগ",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -677,7 +677,7 @@ const userData = [{
         wordNo: "৫",
         location: "মুসলিমপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -688,7 +688,7 @@ const userData = [{
         wordNo: "৫",
         location: "আদর্শনগর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -699,7 +699,7 @@ const userData = [{
         wordNo: "৫",
         location: "আদর্শনগর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -710,7 +710,7 @@ const userData = [{
         wordNo: "৫",
         location: "আদর্শনগর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -721,7 +721,7 @@ const userData = [{
         wordNo: "৫",
         location: "আদর্শনগর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -732,7 +732,7 @@ const userData = [{
         wordNo: "৫",
         location: "নুরবাগ",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -743,7 +743,7 @@ const userData = [{
         wordNo: "৫",
         location: "নুরবাগ",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -754,7 +754,7 @@ const userData = [{
         wordNo: "৫",
         location: "পুরাতন সিএনজি স্টেশন নুরবাগ",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -765,7 +765,7 @@ const userData = [{
         wordNo: "৮",
         location: "পশ্চিম শিয়াচর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -776,7 +776,7 @@ const userData = [{
         wordNo: "৮",
         location: "পূর্ব শিয়াচর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -787,7 +787,7 @@ const userData = [{
         wordNo: "৮",
         location: "পূর্ব শিয়াচর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -798,7 +798,7 @@ const userData = [{
         wordNo: "৮",
         location: "শিয়াচর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -809,7 +809,7 @@ const userData = [{
         wordNo: "৮",
         location: "উত্তর শিয়াচর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -820,7 +820,7 @@ const userData = [{
         wordNo: "৮",
         location: "শিয়াচর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -831,7 +831,7 @@ const userData = [{
         wordNo: "৩",
         location: "ভূইগড়",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -842,7 +842,7 @@ const userData = [{
         wordNo: "৩",
         location: "ভূইগড়",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -853,7 +853,7 @@ const userData = [{
         wordNo: "৩",
         location: "ভূইগড়",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -864,7 +864,7 @@ const userData = [{
         wordNo: "৯",
         location: "রামারবাগ",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -886,7 +886,7 @@ const userData = [{
         wordNo: "৮",
         location: "নন্দলালপুর",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -897,7 +897,7 @@ const userData = [{
         wordNo: "৫",
         location: "মুসলিমপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -908,7 +908,7 @@ const userData = [{
         wordNo: "৫",
         location: "মুসলিমপাড়া",
         detail: "ধার্মিক বিষয় সকল তথ্য ও নামাজ পড়ানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
 ];

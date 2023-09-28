@@ -11,7 +11,7 @@ function navTemplate(nav) {
                     <a href="index.html"><i class="fas fa-home"></i></a>
                 </div>
                 <div class="col-8 text-center logo-div">
-                    <a class="blog-header-logo" href="index.html">Area Phonebook</a><sup>Beta</sup>
+                    <a class="blog-header-logo" href="index.html">Mobile Number Website</a><sup>1421</sup>
                 </div>
                 <div class="col-2 d-flex justify-content-end align-items-center logo-div">
                     <div class="nav-item dropdown">
@@ -24,8 +24,8 @@ function navTemplate(nav) {
                             <!-- <a class="dropdown-item" href="tel:01798899911"><i class="fas fa-phone-alt"></i> আমাদেরকে কল করুন</a> -->
                             <a class="dropdown-item" href="about-us.html"><i class="fas fa-info-circle"></i> আমাদের সম্পর্কে</a>
                             <a class="dropdown-item" href="our-team.html"><i class="fas fa-users"></i> আমাদের টিম</a>
-                            <!-- <a class="dropdown-item" href="mailto:areaphonebook@gmail.com"><i class="fas fa-envelope"></i> ইমেল</a> -->
-                            <!-- <a class="dropdown-item" href="https://www.facebook.com/AreaPhonebook" target="_blank"><i class="fab fa-facebook-square"></i> ফেসবুক</a> -->
+                            <!-- <a class="dropdown-item" href="mailto:usermoin@gmail.com"><i class="fas fa-envelope"></i> ইমেল</a> -->
+                            <!-- <a class="dropdown-item" href="" target="_blank"><i class="fab fa-facebook-square"></i> ফেসবুক</a> -->
                             <a class="dropdown-item" href="investor.html"><i class="fas fa-handshake"></i> ইনভেস্টর</a>
                             <a class="dropdown-item" href="sponsors.html"><i class="fas fa-handshake"></i> স্পনসর</a>
                             <a class="dropdown-item" href="terms-and-conditions.html"><i class="fas fa-file-alt"></i> টার্মস এন্ড কন্ডিশনস</a>

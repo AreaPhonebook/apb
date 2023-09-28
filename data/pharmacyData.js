@@ -6,7 +6,7 @@ const userData = [{
         wordNo: "৫",
         location: "আমতলা",
         detail: "সকল প্রকার ওষুধ পাওয়া যায়। <br>চোখের ও দাতের ডাক্তার বসে (ডাক্তার দেখাতে উল্লেখিত নাম্বারে যোগাযোগ করুন)।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -17,7 +17,7 @@ const userData = [{
         wordNo: "৫",
         location: "নিশ্চিন্ত পূর",
         detail: "সকল প্রকার ওষুধ পাওয়া যায়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -28,7 +28,7 @@ const userData = [{
         wordNo: "৫",
         location: "শরীফবাগ, শাহীবাজার",
         detail: "সকল প্রকারের মেডিসিন পাওয়া যায়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -39,7 +39,7 @@ const userData = [{
         wordNo: "৫",
         location: "কদমতলী পাকার মাথা ব্রিজ সংলগ্ন, পশ্চিম দৌলতপুর।",
         detail: "ফার্মেসি এবং চোখের ডাক্তার বসে।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -50,7 +50,7 @@ const userData = [{
         wordNo: "৬",
         location: "দক্ষিণ রসুলপুর, মাদ্রাসা রোড",
         detail: "সকল প্রকার ওষুধ পাওয়া যায়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -61,7 +61,7 @@ const userData = [{
         wordNo: "৬",
         location: "ভাঙ্গাপুল, রসুলপুর",
         detail: "সকল প্রকার ওষুধ পাওয়া যায়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -72,7 +72,7 @@ const userData = [{
         wordNo: "৬",
         location: "ভাঙ্গাপুল, রসুলপুর",
         detail: "সকল প্রকার ওষুধ পাওয়া যায়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -83,7 +83,7 @@ const userData = [{
         wordNo: "৪",
         location: "নুরবাগ পুরাতন সি এন জি স্ট্যান্ড, নুরবাগ",
         detail: "সকল প্রকারের মেডিসিন পাওয়া যায়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -94,7 +94,7 @@ const userData = [{
         wordNo: "৪",
         location: "নুরবাগ জামে মসজিদ সংলগ্ন, নুরবাগ",
         detail: "সকল প্রকারের মেডিসিন পাওয়া যায়।<br> ডাক্তার বসে চোখের, মেডিসিন ও চক্ষু।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -105,7 +105,7 @@ const userData = [{
         wordNo: "৪",
         location: "নুরবাগ জামে মসজিদ সংলগ্ন, নুরবাগ",
         detail: "ডাক্তার বসে, মেডিসিন বিশেষজ্ঞ।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -116,7 +116,7 @@ const userData = [{
         wordNo: "৪",
         location: "ইকরা স্কুল সংলগ্ন, কুসুমবাগ",
         detail: "ডাক্তার বসে, শিশু, গাইনি, নাক-কান গলা, মেডিসিন।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -127,7 +127,7 @@ const userData = [{
         wordNo: "৪",
         location: "দেলপাড়া বাজার সংলগ্ন, দেলপাড়া",
         detail: "দেশি-বিদেশি সকল  ওষুধ পাওয়া যায়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -138,7 +138,7 @@ const userData = [{
         wordNo: "৫",
         location: "বউবাজার শাহীবাজার রোড, বউবাজার",
         detail: "সকল প্রকারের মেডিসিন পাওয়া যায়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -149,7 +149,7 @@ const userData = [{
         wordNo: "৬",
         location: "বউবাজার বটতলা সংলগ্ন",
         detail: "সকল প্রকারের ওষুধ পাওয়া যায়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -160,7 +160,7 @@ const userData = [{
         wordNo: "৬",
         location: "বউবাজার নতুন বাজার সংলগ্ন",
         detail: "সকল প্রকারের প্রাথমিক চিকিৎসা করা হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -171,7 +171,7 @@ const userData = [{
         wordNo: "৬",
         location: "বউবাজার রেললাইন সংলগ্ন",
         detail: "সকল প্রকারের ওষুধ পাওয়া যায়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -182,7 +182,7 @@ const userData = [{
         wordNo: "৫",
         location: "নয়ামাটি মুসলিম পাড়া",
         detail: "সকল প্রকারের ঔষধ পাওয়া যায় এবং পাইকারি বিক্রি করা হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -193,7 +193,7 @@ const userData = [{
         wordNo: "৫",
         location: "বাইতুল আমান কেন্দ্রীয় জামে মসজিদ সংলগ্ন, নয়ামাটি।",
         detail: "সকল প্রকারের ঔষধ পাওয়া যায়",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -204,7 +204,7 @@ const userData = [{
         wordNo: "৬",
         location: "নয়ামাটি জামে মসজিদ সংলগ্ন, নয়ামাটি",
         detail: "সকল ধরনের চিকিৎসা করা হয়। ওষুধ হোম ডেলিভারি করা হয়। সরাসরী কোম্পানি থেকে ক্রয়-ক্রীত ওষুধ পাওয়া যায়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -215,7 +215,7 @@ const userData = [{
         wordNo: "৬",
         location: "দেলপাড়া রোড, নয়ামাটি জামে মসজিদ সংলগ্ন",
         detail: "সকল প্রকারের ঔষধ পাওয়া যায় এবং পাইকারি বিক্রি হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -226,7 +226,7 @@ const userData = [{
         wordNo: "৪",
         location: "দেলপাড়া বাজার, দেলপাড়া",
         detail: "দেশি-বিদেশি সকল প্রকার ওষুধ পাইকারী ও খুচরা বিক্রি হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -237,7 +237,7 @@ const userData = [{
         wordNo: "৪",
         location: "দেলপাড়া উচ্চ বিদ্যালয় সংলগ্ন",
         detail: "সকল প্রকার ঔষধ পাওয়া যায়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -248,7 +248,7 @@ const userData = [{
         wordNo: "৬",
         location: "মধ্য রসুলপুর, কমিউনিটি সেন্টার সংলগ্ন",
         detail: "সকল প্রকার ওষুধ পাওয়া যায়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -259,7 +259,7 @@ const userData = [{
         wordNo: "৬",
         location: "বউবাজার বাজার সংলগ্ন",
         detail: "সকল প্রকারের ঔষধ পাওয়া যায়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -270,7 +270,7 @@ const userData = [{
         wordNo: "৬",
         location: "জসিম মার্কেট, রসুলপুর",
         detail: "সকল প্রকার ওষুধ পাওয়া যায়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -281,7 +281,7 @@ const userData = [{
         wordNo: "৫",
         location: "আমতলা মোড়",
         detail: "চোখের ডাক্তার বসে - প্রতি মঙ্গলবার ১০ টা থেকে ৩ টা।<br>দাতের ডাক্তার বসে - প্রতি বৃহস্পতিবার ৩ টা থেকে ৬ টা।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -292,7 +292,7 @@ const userData = [{
         wordNo: "৫",
         location: "কুমিল্লা সমিতি মার্কেট, শাহী-বাজার",
         detail: "সকল প্রকারের ঔষধ পাওয়া যায়। <br><br>ডাঃ মোঃ আবদুন নূর সায়েম <br>এম.বি.বি.এস, বি.সি.এস (স্ব্যাস্থ) <br> রোগী দেখার সময়ঃ বিকাল ৫.৩০ মিঃ হইতে রাত ৯.০০টা। <br>শনি, সোম ও বুধবার পর্যন্ত। <br><br> মোঃ খোরশেদ আমল ভুইয়া<br> চক্ষু,  মাথা ব্যাথা ও লো ভিশন স্পেশালিষ্ট।<br> বিকাল ৪টা থেকে সন্ধ্যা৬ টা। <br><br> ডাঃ মোঃ কামরুল হাসান<br> শিশু ও ফ্যামিলি মেডিসিন<br> প্রতি মঙ্গলবার বিকাল ৩টা থেকে ৫টা পর্যন্ত। <br><br> ডাঃ মোঃ আরশাদ<br> ওরাল এন্ড ডেন্টাল সার্জন<br> প্রতি রবি ও বুধবার  বিকাল ৫ টা থেকে রাত ৯ টা পর্যন্ত।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -303,7 +303,7 @@ const userData = [{
         wordNo: "৬",
         location: "নয়ামাটি, মতিউর রহমান মডেল টাউন সংলগ্ন।",
         detail: "সকল প্রকারের ঔষধ পাওয়া যায়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -314,7 +314,7 @@ const userData = [{
         wordNo: "৪",
         location: "দেলপাড়া রোড, এ এস এম সুপার মার্কেট",
         detail: "সকল প্রকারের ঔষধ পাওয়া যায়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -325,7 +325,7 @@ const userData = [{
         wordNo: "৪",
         location: "আদর্শনগর মসজিদ রোড",
         detail: "ডাঃ মোঃ সাইফুল ইসলাম (DMA)<br> সকল প্রকার ওষুধ সূলভ মূল্যে বিক্রি করা হয়। ডাইবেটিস, প্রেসার মাপা হয় ও নেবুলাইজার দিয়ে গ্যাস দেওয়া হয়।<br> এবং প্রেগন্যান্সি টেস্ট ও মহিলাদের যাবতীয় চিকিৎসা করানো হয়।",
-        postLink: "https://www.facebook.com/AreaPhonebook/",
+        postLink: "/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
     },
     {

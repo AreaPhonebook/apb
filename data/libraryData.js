@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৪",
     location: "হাজী আহসান উদ্দিন সুপার মার্কেট, ১ম তলা, আদর্শ নগর",
     detail: "লাইব্রেরির সকল জিনিস পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৪",
     location: "দেলপাড়া উচ্চ বিদ্যালয় সংলগ্ন",
     detail: "লাইব্রেরির সকল জিনিস পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৫",
     location: "আমতলা মোড়",
     detail: "লাইব্রেরির সকল জিনিস পাওয়া যায়, ফোটকপি ও কম্পোজ করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৬",
     location: "ভাঙ্গাপুল, রসুলপুর",
     detail: "ইসলামিক লাইব্রেরী।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
   },
   {
@@ -51,7 +51,7 @@ const userData = [
     wordNo: "৪",
     location: "হাজী আহসান উদ্দিন সুপার মার্কেট, ১ম তলা, আদর্শ নগর",
     detail: "লাইব্রেরির যাবতীয় জিনিস পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
   },
   {
@@ -62,7 +62,7 @@ const userData = [
     wordNo: "৪",
     location: "দেলপাড়া উচ্চ বিদ্যালয় সংলগ্ন",
     detail: "লাইব্রেরী এন্ড ষ্টেশনারী পন্য ও ফটোকপি করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
   },
   {
@@ -95,7 +95,7 @@ const userData = [
     wordNo: "৬",
     location: "পাগলা",
     detail: "বই বিক্রি ও লাইব্রেরী সকল পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
   },
   {
@@ -106,7 +106,7 @@ const userData = [
     wordNo: "৫",
     location: "শাহী বাজার, আমতলা মোড়",
     detail: "লাইব্রেরী সকল কিছু, ফোটো কপি, প্রিন্টিং এবং বিকাশ, নগদ মোবাইল ব্যাংকিং এর সকল সেবা দেওয়া হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
   },
   {
@@ -117,7 +117,7 @@ const userData = [
     wordNo: "৬",
     location: "নয়ামাটি",
     detail: "কম্পিউটার প্রশিক্ষণ ফটোকপি বিকাশ, রকেট, নগদ রিচার্জ ও অনলাইন এর কাজ করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
   }
 ];

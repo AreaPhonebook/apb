@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৪",
     location: "নুরবাগ চিতাসাল রোড, নুরবাগ",
     detail: "শুধু হোমিও ঔষধ বিক্রি করা হয়।",
-   postLink: "https://www.facebook.com/AreaPhonebook/",
+   postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৫",
     location: "শাহীবাজার, শাহী মসজিদ সংলগ্ন",
     detail: "চর্ম, যৌন, শিশু ও স্ত্রী রোগে অভিজ্ঞ।",
-   postLink: "https://www.facebook.com/AreaPhonebook/",
+   postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৬",
     location: "দেলপাড়া রোড, নয়ামাটি মোড়",
     detail: "জটিল ও পুরাতন রোগের চিকিৎসা কেন্দ্র।",
-   postLink: "https://www.facebook.com/AreaPhonebook/",
+   postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৬",
     location: "পাগলা উচ্চ বিদ্যালয় সংলগ্ন",
     detail: "mahmudur8877@gmail.com<br> চর্ম, যৌন, শিশু ও স্ত্রী রোগ সহ সকল প্রকার জটিল ও কঠিণ রোগের সু চিকিৎসা করা হয়।",
-   postLink: "https://www.facebook.com/AreaPhonebook/",
+   postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbashundharasnacks%2Fvideos%2F897735790751548%2F&width=500&show_text=false&height=280&appId"
   }
 ];

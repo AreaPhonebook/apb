@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৬",
     location: "হাজী ইউনুস সুপার মার্কেট(২য় তলা), পাগলা বাজার",
     detail: "দাতের সকল প্রকার চিকিৎসা হয়। ডাক্তার বসে রোগী দেখানোর জন্য উল্লেখিত নাম্বারে যোগাযোগ করুন।<br> সার্জন ডাঃ চৌধুরী সুজন বড়ুয়া<br> বিডিএস (ঢাকা) পিজিটি (ও এস এফ)<br> পিজিটি (কনজারভেটিভ) ডেন্টিস্ট্রি<br> রেজি নং- ৫৭৯৯",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৪",
     location: "দেলপাড়া বাজার, দেলপাড়া",
     detail: "দাঁতের সকল চিকিৎসা করা হয়।<br> ডাক্তার বসে প্রতিদিন বিকাল ৫টা থেকে রাত ১০টা পর্যন্ত।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৬",
     location: "নয়ামাটি জামে মসজিদ সংলগ্ন, নয়ামাটি",
     detail: "শুধু দাতের ডাক্তার বসে,<br>ডাক্তার বসেনঃ ৬টা - ১০টা পর্যন্ত।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৫",
     location: "আমতলা মোড়",
     detail: "দাতের ডাক্তার বসে - প্রতি বৃহস্পতিবার ৩ টা থেকে ৬ টা।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -51,7 +51,7 @@ const userData = [
     wordNo: "৬",
     location: "এ এস এম সুপার মার্কেট, পাগলা",
     detail: "আঁকা-বাঁকা ও উঁচু-নিঁচু দাঁতের চিকিৎসা সহ দাঁত ও মুখে সকল সমস্যার সমাধান করে প্রিয়জনকে উপহার দিন আপনার সুন্দর-প্রাণবন্ত হাসি। দাঁতের ডাক্তার বসে,<br> ডাক্তার বসেনঃ দুপুর ৩ টা থেকে ৯টা পর্যন্ত।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {

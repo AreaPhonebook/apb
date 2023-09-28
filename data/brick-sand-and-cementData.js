@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৫",
     location: "চিতাসাল ঢাল, নুরবাগ রোড, রায়হান প্যাকেজিং সংলগ্ন",
     detail: "প্রোপাইটরঃ- মোঃ আতিকুল ইসলাম খোকন <br>এখানে রড, এঙ্গেল, চুড়ি, সিমেন্ট, ইট, বালি, সিপটিন ইত্যাদি নির্মাণ সামগ্রী পাইকারী ও খুচরা বিক্রয় করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৫",
     location: "উত্তর-পূর্ব শাহী-মহল্লা",
     detail: "রড সিমেন্টের দোকান ইত্যাদি নির্মাণ সামগ্রী পাইকারী ও খুচরা বিক্রয় করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৪",
     location: "পাগলা ডিএন রোড",
     detail: "এখানে ইট, বালি, শুরকি, রড ও সিমেন্ট ইত্যাদি পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৫",
     location: "শাহী বাজার",
     detail: "এখানে উন্নতমানের ইট, বালি, রড, সিমেন্ট সহ যাবতীয় ইমারতীয় মাল পাইকারী ও খুচরা বিক্রেতা এবং সরবরাহকারী।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {

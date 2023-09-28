@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৪",
     location: "আর্দশ নগর",
     detail: "01853599888<br> থাই এবং এ্যালুমিনিয়াম এর সকল কাজ করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৫",
     location: "শাহীবাজার আমতলা রোড",
     detail: "গ্লাস, থাই এবং এ্যালুমিনিয়াম এর সকল কাজ করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৬",
     location: "দেলপাড়া রোড, নয়ামাটি",
     detail: "থাই এ্যালুমিনিয়াম গ্লাস এন্ড এস. এস এর সকল কাজ করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৬",
     location: "দেলপাড়া রোড, বাইতুল ফালাহ মসজিদ সংলগ্ন",
     detail: "থাই ও এ্যালুমিনিয়াম এর সকল কাজ করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -51,7 +51,7 @@ const userData = [
     wordNo: "৬",
     location: "মর্ডান মার্কেট, কামালপুর, পাগলা",
     detail: "গ্লাস, থাই এবং এ্যালুমিনিয়াম এর সকল কাজ করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -62,7 +62,7 @@ const userData = [
     wordNo: "৫",
     location: "শাহীবাজার মার্কেট, শাহীবাজার",
     detail: "হার্ডওয়্যার, সেনেটারী পন্য, বার্জার, এশিয়ান পেইন্টস এর ডিলার সকল খুচরা বিক্রি করা হয়। সকল সেবা, হোম সার্ভিস করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {

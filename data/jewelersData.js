@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৫",
     location: "শাহীবাজার মার্কেট, শাহীবাজার",
     detail: "সব ধরনের জুয়েলার্স পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৪",
     location: "চিতাশাল ঢাল, নুরবাগ রোড",
     detail: "এখানে আধুনিক ২১/২২ ক্যারেটের গ্যারান্টিযুক্ত খাঁটি স্বনের ও রূপার অলংকার প্রস্তুতকারক ও বিক্রেতা।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৬",
     location: "এ গনি মেন্সন, পাগলা মার্কেট",
     detail: "এখানে আধুনিক স্বর্ণ ও রূপার অলংকার তৈরি করা হয় ও রেডিমেট অলংকার ক্রয়-বিক্রয় করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "৬",
     location: "হাজী গনি, পাগলা মার্কেট",
     detail: "এখানে আধুনিক স্বর্ণ ও রূপার অলংকার তৈরি করা হয় ও রেডিমেট অলংকার ক্রয়-বিক্রয় করা হয়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
+    postLink: "/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
