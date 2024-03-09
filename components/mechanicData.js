@@ -3,31 +3,31 @@ const categoryData = [
       id: 1,
       photo: "resources/icons/mechanic/mason.png",
       name: "রাজমিস্ত্রী",
-      link: "mason"
+      link: "mason.html"
     },
     {
       id: 2,
       photo: "resources/icons/mechanic/painter.png",
       name: "রং মিস্ত্রী",
-      link: "painter"
+      link: "painter.html"
     },
     {
       id: 3,
       photo: "resources/icons/mechanic/carpenter.png",
       name: "কাঠ মিস্ত্রী",
-      link: "carpenter"
+      link: "carpenter.html"
     },
     {
       id: 4,
       photo: "resources/icons/mechanic/electric-mechanic.png",
       name: "ইলেকট্রিক মিস্ত্রী",
-      link: "electric-mechanic"
+      link: "electric-mechanic.html"
     },
     {
       id: 5,
       photo: "resources/icons/mechanic/motor-mechanic.png",
       name: "মোটর মিস্ত্রী",
-      link: "motor-mechanic"
+      link: "motor-mechanic.html"
     },
     {
       id: 6,

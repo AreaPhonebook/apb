@@ -3,25 +3,25 @@ const categoryData = [
       id: 1,
       photo: "resources/icons/market/supermarket.png",
       name: "সুপার মার্কেট",
-      link: "supermarket"
+      link: "supermarket.html"
     },
     {
       id: 2,
       photo: "resources/icons/market/raw-market.png",
       name: "কাঁচা বাজার",
-      link: "raw-market"
+      link: "raw-market.html"
     },
     {
       id: 3,
       photo: "resources/icons/market/clothing-market.png",
       name: "পোশাকের বাজার",
-      link: "clothing-market"
+      link: "clothing-market.html"
     },
     {
       id: 4,
       photo: "resources/icons/market/wholesale-market.png",
       name: "পাইকারি বাজার",
-      link: "wholesale-market"
+      link: "wholesale-market.html"
     },
     {
       id: 5,

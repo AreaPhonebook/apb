@@ -3,13 +3,13 @@ const categoryData = [
       id: 1,
       photo: "resources/icons/mills-factory-garments/mills.png",
       name: "মিলস",
-      link: "mills"
+      link: "mills.html"
     },
     {
       id: 2,
       photo: "resources/icons/mills-factory-garments/factory.png",
       name: "ফ্যাক্টরি",
-      link: "factory"
+      link: "factory.html"
     },
     {
       id: 3,

@@ -3,13 +3,13 @@ const categoryData = [
       id: 1,
       photo: "resources/icons/land-development/land-for-sale.png",
       name: "জমি বিক্রি",
-      link: "land-for-sale"
+      link: "land-for-sale.html"
     },
     {
       id: 2,
       photo: "resources/icons/land-development/land-booking.png",
       name: "জমি বুকিং",
-      link: "land-booking"
+      link: "land-booking.html"
     },
     {
       id: 3,

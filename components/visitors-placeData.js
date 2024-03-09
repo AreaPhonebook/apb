@@ -3,7 +3,7 @@ const categoryData = [
       id: 1,
       photo: "resources/icons/visitors-place/park.png",
       name: "পার্ক",
-      link: "park"
+      link: "park.html"
     },
     {
       id: 2,
@@ -15,7 +15,7 @@ const categoryData = [
       id: 3,
       photo: "resources/icons/visitors-place/restaurant.png",
       name: "রেস্টুরেন্ট",
-      link: "restaurant"
+      link: "restaurant.html"
     },
     {
       id: 4,

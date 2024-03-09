@@ -3,19 +3,19 @@ const categoryData = [
       id: 1,
       photo: "resources/icons/studio-computer-shop/studio.png",
       name: "স্টুডিও",
-      link: "studio"
+      link: "studio.html"
     },
     {
       id: 2,
       photo: "resources/icons/studio-computer-shop/cameraman.png",
       name: "ক্যামেরাম্যান",
-      link: "cameraman"
+      link: "cameraman.html"
     },
     {
       id: 3,
       photo: "resources/icons/studio-computer-shop/computer-shop.png",
       name: "কম্পিউটার দোকান",
-      link: "computer-shop"
+      link: "computer-shop.html"
     },
     {
       id: 4,

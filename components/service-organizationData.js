@@ -3,25 +3,25 @@ const categoryData = [
       id: 1,
       photo: "resources/icons/service-organization/list-of-organization.png",
       name: "সংগঠনের তালিকা",
-      link: "list-of-organization"
+      link: "list-of-organization.html"
     },
     {
       id: 2,
       photo: "resources/icons/service-organization/social-organization.png",
       name: "সামাজিক সংগঠন",
-      link: "social-organization"
+      link: "social-organization.html"
     },
     {
       id: 3,
       photo: "resources/icons/service-organization/sports-organizations.png",
       name: "ক্রীড়া সংগঠন",
-      link: "sports-organizations"
+      link: "sports-organizations.html"
     },
     {
       id: 4,
       photo: "resources/icons/service-organization/blood-donation-organization.png",
       name: "রক্তদান সংগঠন",
-      link: "blood-donation-organization"
+      link: "blood-donation-organization.html"
     },
     {
       id: 5,

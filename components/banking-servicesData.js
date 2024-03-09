@@ -3,19 +3,19 @@ const categoryData = [
       id: 1,
       photo: "resources/icons/banking-services/bank.png",
       name: "ব্যাংক",
-      link: "bank"
+      link: "bank.html"
     },
     {
       id: 2,
       photo: "resources/icons/banking-services/agent-bank.png",
       name: "এজেন্ট ব্যাংক",
-      link: "agent-bank"
+      link: "agent-bank.html"
     },
     {
       id: 3,
       photo: "resources/icons/banking-services/atm-booth.png",
       name: "এটিএম বুথ",
-      link: "atm-booth"
+      link: "atm-booth.html"
     },
     {
       id: 4,

@@ -11,7 +11,7 @@ function navTemplate(nav) {
                     <a href="index.html"><i class="fas fa-home"></i></a>
                 </div>
                 <div class="col-8 text-center logo-div">
-                    <a class="blog-header-logo" href="index.html">Mobile Number Website</a><sup>1421</sup>
+                    <a class="blog-header-logo" href="index.html">Area Phonebook</a><sup>1421</sup>
                 </div>
                 <div class="col-2 d-flex justify-content-end align-items-center logo-div">
                     <div class="nav-item dropdown">

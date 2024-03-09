@@ -3,13 +3,13 @@ const categoryData = [
       id: 1,
       photo: "resources/icons/blood-donation/blood-bank.png",
       name: "ব্লাড ব্যাংক",
-      link: "blood-bank"
+      link: "blood-bank.html"
     },
     {
       id: 2,
       photo: "resources/icons/blood-donation/blood-donation-organization.png",
       name: "রক্তদান সংগঠন",
-      link: "blood-donation-organization"
+      link: "blood-donation-organization.html"
     },
     {
       id: 3,

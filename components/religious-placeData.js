@@ -3,19 +3,19 @@ const categoryData = [
       id: 1,
       photo: "resources/icons/religious-place/mosque.png",
       name: "মসজিদ",
-      link: "mosque"
+      link: "mosque.html"
     },
     {
       id: 2,
       photo: "resources/icons/religious-place/temple.png",
       name: "মন্দির",
-      link: "temple"
+      link: "temple.html"
     },
     {
       id: 3,
       photo: "resources/icons/religious-place/church.png",
       name: "গির্জা",
-      link: "church"
+      link: "church.html"
     },
     {
       id: 4,

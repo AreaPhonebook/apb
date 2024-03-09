@@ -3,13 +3,13 @@ const categoryData = [
       id: 1,
       photo: "resources/icons/current-train-schedule/dhaka-narayanganj-train.png",
       name: "ঢাকা - নারায়ণগঞ্জ",
-      link: "dhaka-narayanganj-train"
+      link: "dhaka-narayanganj-train.html"
     },
     {
       id: 2,
       photo: "resources/icons/current-train-schedule/eastern-train.png",
       name: "পূর্বাঞ্চল",
-      link: "eastern-train"
+      link: "eastern-train.html"
     },
     {
       id: 3,

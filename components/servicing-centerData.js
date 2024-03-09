@@ -3,49 +3,49 @@ const categoryData = [
       id: 1,
       photo: "resources/icons/servicing-center/mobile-servicing.png",
       name: "মোবাইল সার্ভিসিং",
-      link: "mobile-servicing"
+      link: "mobile-servicing.html"
     },
     {
       id: 2,
       photo: "resources/icons/servicing-center/ac-fridge-servicing.png",
       name: "এসি / ফ্রিজ সার্ভিসিং",
-      link: "ac-fridge-servicing"
+      link: "ac-fridge-servicing.html"
     },
     {
       id: 3,
       photo: "resources/icons/servicing-center/computer-servicing.png",
       name: "কম্পিউটার সার্ভিসিং",
-      link: "computer-servicing"
+      link: "computer-servicing.html"
     },
     {
       id: 4,
       photo: "resources/icons/servicing-center/tv-servicing.png",
       name: "টিভি সার্ভিসিং",
-      link: "tv-servicing"
+      link: "tv-servicing.html"
     },
     {
       id: 5,
       photo: "resources/icons/servicing-center/electric-servicing.png",
       name: "ইলেক্টিক সার্ভিসিং",
-      link: "electric-servicing"
+      link: "electric-servicing.html"
     },
     {
       id: 6,
       photo: "resources/icons/servicing-center/cycle-servicing.png",
       name: "সাইকেল সার্ভিসিং",
-      link: "cycle-servicing"
+      link: "cycle-servicing.html"
     },
     {
       id: 7,
       photo: "resources/icons/servicing-center/bikes-servicing.png",
       name: "বাইক সার্ভিসিং",
-      link: "bikes-servicing"
+      link: "bikes-servicing.html"
     },
     {
       id: 8,
       photo: "resources/icons/servicing-center/car-servicing.png",
       name: "গাড়ি সার্ভিসিং",
-      link: "car-servicing"
+      link: "car-servicing.html"
     },
     {
       id: 9,

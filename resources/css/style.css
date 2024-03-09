@@ -15,7 +15,7 @@ a {
 }
 
 a:hover {
-    color: #B0578D;
+    color: #ff2e2e;
 }
 
 * {
@@ -28,7 +28,7 @@ a:hover {
 ************************************/
 
 nav {
-    background-color: #B0578D;
+    background-color: #ff2e2e;
     height: 50px;
 }
 
@@ -62,12 +62,12 @@ sup {
 
 .lol {
     display: inline-block;
-    border: 1px #B0578D solid;
+    border: 1px #ff2e2e solid;
     padding: 5px 10px;
     margin: 5px 0 0 0;
     border-radius: 3px;
     width: 100%;
-    background-color: #B0578D;
+    background-color: #ff2e2e;
     color: #fff;
     text-align: center;
     transition: .4s;
@@ -79,13 +79,13 @@ sup {
 
 .lol:hover {
     display: inline-block;
-    border: 1px #B0578D solid;
+    border: 1px #ff2e2e solid;
     padding: 5px 10px;
     margin: 5px 0 0 0;
     border-radius: 3px;
     width: 100%;
     background-color: #fff;
-    color: #B0578D;
+    color: #ff2e2e;
 }
 
 
@@ -94,7 +94,7 @@ sup {
 ************************************/
 
 .hero-text {
-    background-color: #FACBEA;
+    background-color: #facbcb;
     text-align: center;
     padding: 10px 0;
     margin-bottom: 15px;
@@ -117,7 +117,7 @@ sup {
 }
 
 .active {
-    color: #B0578D;
+    color: #ff2e2e;
 }
 
 nav a:hover {
@@ -150,7 +150,7 @@ nav a:hover {
 }
 
 .card:hover {
-    border-color: #B0578D;
+    border-color: #ff2e2e;
     ;
 }
 
@@ -346,7 +346,7 @@ h1 {
 
 .romjan {
     text-align: center;
-    background-color: #FACBEA;
+    background-color: #facbcb;
     /* margin-top: 65px; */
     margin-bottom: 15px;
     padding: 20px 0;
@@ -354,5 +354,5 @@ h1 {
 }
 
 .romjan b {
-    color: #B0578D;
+    color: #ff2e2e;
 }

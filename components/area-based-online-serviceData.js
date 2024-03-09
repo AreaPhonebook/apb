@@ -9,19 +9,19 @@ const categoryData = [
       id: 2,
       photo: "resources/icons/area-based-online-service/food.png",
       name: "ফুড",
-      link: "food"
+      link: "food.html"
     },
     {
       id: 3,
       photo: "resources/icons/area-based-online-service/clothes.png",
       name: "কাপড়",
-      link: "clothes"
+      link: "clothes.html"
     },
     {
       id: 4,
       photo: "resources/icons/area-based-online-service/cosmetics.png",
       name: "কসমেটিক্স",
-      link: "cosmetics"
+      link: "cosmetics.html"
     },
     {
       id: 5,
