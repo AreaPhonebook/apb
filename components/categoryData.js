@@ -3,7 +3,7 @@ const categoryData = [
     id: 1,
     photo: "resources/icons/kutubpur-union.png",
     name: "আমাদের কুতুবপুর",
-    pageLink: "our-kutubpur",
+    pageLink: "our-kutubpur.html",
     subCategory:
       [        
         {
@@ -48,7 +48,7 @@ const categoryData = [
         },
         {
           name: "মুক্তিযোদ্ধা",
-          link: "freedom-fighters"
+          link: "freedom-fighters.html"
         }
       ]
   },  
@@ -56,7 +56,7 @@ const categoryData = [
     id: 2,
     photo: "resources/icons/train-time-table.png",
     name: "বর্তমান ট্রেনের সময়সূচি",
-    pageLink: "current-train-schedule",
+    pageLink: "current-train-schedule.html",
     subCategory:
       [
         {
@@ -69,7 +69,7 @@ const categoryData = [
         },
         {
           name: "পশ্চিমাঞ্চল",
-          link: "western-train"
+          link: "western-train.html"
         }
       ]
   },
@@ -77,7 +77,7 @@ const categoryData = [
     id: 3,
     photo: "resources/icons/emergency-services.png",
     name: "জরুরী সেবা",
-    pageLink: "emergency-services",
+    pageLink: "emergency-services.html",
     subCategory:
       [
         {
@@ -114,7 +114,7 @@ const categoryData = [
         },
         {
           name: "গাড়ি ভাড়া",
-          link: "car-rental"
+          link: "car-rental.html"
         }
       ]
   },
@@ -122,7 +122,7 @@ const categoryData = [
     id: 4,
     photo: "resources/icons/blood-donation.png",
     name: "রক্ত দান",
-    pageLink: "blood-donation",
+    pageLink: "blood-donation.html",
     subCategory:
       [
         {
@@ -135,7 +135,7 @@ const categoryData = [
         },
         {
           name: "রক্তদাতা",
-          link: "blood-donor"
+          link: "blood-donor.html"
         }
       ]
   },
@@ -143,7 +143,7 @@ const categoryData = [
     id: 5,
     photo: "resources/icons/medical-services.png",
     name: "চিকিৎসা সেবা",
-    pageLink: "medical-services",
+    pageLink: "medical-services.html",
     subCategory:
       [
         {
@@ -184,7 +184,7 @@ const categoryData = [
         },
         {
           name: "চক্ষু চিকিৎসালয়",
-          link: "ophthalmology"
+          link: "ophthalmology.html"
         }
       ]
   },
@@ -192,7 +192,7 @@ const categoryData = [
     id: 6,
     photo: "resources/icons/food-corner_food-store.png",
     name: "ফুড কর্নার / খাবার দোকান",
-    pageLink: "food-corner_food-store",
+    pageLink: "food-corner_food-store.html",
     subCategory:
       [
         {
@@ -225,7 +225,7 @@ const categoryData = [
         },
         {
           name: "ফলের দোকান",
-          link: "fruit-shop"
+          link: "fruit-shop.html"
         }
       ]
   },
@@ -233,7 +233,7 @@ const categoryData = [
     id: 7,
     photo: "resources/icons/shop.png",
     name: "দোকান",
-    pageLink: "shop",
+    pageLink: "shop.html",
     subCategory:
       [
         {
@@ -294,7 +294,7 @@ const categoryData = [
     id: 8,
     photo: "resources/icons/education-services.png",
     name: "শিক্ষা সেবা",
-    pageLink: "education-services",
+    pageLink: "education-services.html",
     subCategory:
       [
         {
@@ -323,7 +323,7 @@ const categoryData = [
         },
         {
           name: "শিক্ষা প্রতিষ্ঠানের সকল সেবা",
-          link: "all-services-of-educational-institutions"
+          link: "all-services-of-educational-institutions.html"
         }
       ]
   },
@@ -331,7 +331,7 @@ const categoryData = [
     id: 9,
     photo: "resources/icons/training-center.png",
     name: "প্রশিক্ষণ কেন্দ্র",
-    pageLink: "training-center",
+    pageLink: "training-center.html",
     subCategory:
       [
         {
@@ -372,7 +372,7 @@ const categoryData = [
         },
         {
           name: "Gym",
-          link: "gym"
+          link: "gym.html"
         }
       ]
   },
@@ -380,7 +380,7 @@ const categoryData = [
     id: 10,
     photo: "resources/icons/servicing-center.png",
     name: "সার্ভিসিং সেন্টার",
-    pageLink: "servicing-center",
+    pageLink: "servicing-center.html",
     subCategory:
       [          
         {
@@ -417,7 +417,7 @@ const categoryData = [
         },
         {
           name: "সেলাই মেশিন সার্ভিসিং",
-          link: "sewing-machine-servicing"
+          link: "sewing-machine-servicing.html"
         }
       ]
   },
@@ -425,7 +425,7 @@ const categoryData = [
     id: 11,
     photo: "resources/icons/rental-services.png",
     name: "ভাড়া সেবা",
-    pageLink: "rental-services",
+    pageLink: "rental-services.html",
     subCategory:
       [
         {
@@ -454,7 +454,7 @@ const categoryData = [
         },
         {
           name: "ইন্টারনেট সেবা",
-          link: "internet-service"
+          link: "internet-service.html"
         }
       ]
   },
@@ -462,7 +462,7 @@ const categoryData = [
     id: 12,
     photo: "resources/icons/parlor-salon.png",
     name: "পার্লার / সেলুন",
-    pageLink: "parlor-salon",
+    pageLink: "parlor-salon.html",
     subCategory:
       [
         {
@@ -479,7 +479,7 @@ const categoryData = [
         },
         {
           name: "কসমিটিক্স এর দোকান",
-          link: "cosmetics-shop"
+          link: "cosmetics-shop.html"
         }
       ]
   },
@@ -487,7 +487,7 @@ const categoryData = [
     id: 13,
     photo: "resources/icons/area-based-online-service.png",
     name: "এলাকাভিত্তিক অনলাইন সেবা",
-    pageLink: "area-based-online-service",
+    pageLink: "area-based-online-service.html",
     subCategory:
       [
         {
@@ -508,7 +508,7 @@ const categoryData = [
         },
         {
           name: "অন্যান্য",
-          link: "others"
+          link: "others.html"
         }
       ]
   },
@@ -516,7 +516,7 @@ const categoryData = [
     id: 14,
     photo: "resources/icons/studio-computer-shop.png",
     name: "স্টুডিও / কম্পিউটার দোকান",
-    pageLink: "studio-computer-shop",
+    pageLink: "studio-computer-shop.html",
     subCategory:
       [
         {
@@ -533,7 +533,7 @@ const categoryData = [
         },
         {
           name: "প্রিন্টিং প্রেস",
-          link: "printing-press"
+          link: "printing-press.html"
         }
       ]
   },
@@ -541,7 +541,7 @@ const categoryData = [
     id: 15,
     photo: "resources/icons/mechanic.png",
     name: "মিস্ত্রী",
-    pageLink: "mechanic",
+    pageLink: "mechanic.html",
     subCategory:
       [
         {
@@ -566,7 +566,7 @@ const categoryData = [
         },
         {
           name: "তালা-চাবি মিস্ত্রী",
-          link: "lock-key-mechanic"
+          link: "lock-key-mechanic.html"
         }
       ]
   },
@@ -574,7 +574,7 @@ const categoryData = [
     id: 16,
     photo: "resources/icons/transportation-services.png",
     name: "পরিবহন সেবা",
-    pageLink: "transportation-services",
+    pageLink: "transportation-services.html",
     subCategory:
       [
         {
@@ -615,7 +615,7 @@ const categoryData = [
         },
         {
           name: "জলযান",
-          link: "watercraft"
+          link: "watercraft.html"
         }
       ]
   },
@@ -623,7 +623,7 @@ const categoryData = [
     id: 17,
     photo: "resources/icons/hardware-sanitary-electronics.png",
     name: "হার্ডওয়ার / স্যানিটারি / ইলেকট্রনিক্স",
-    pageLink: "hardware-sanitary-electronics",
+    pageLink: "hardware-sanitary-electronics.html",
     subCategory:
       [
         {
@@ -648,7 +648,7 @@ const categoryData = [
         },
         {
           name: "গ্রিল এবং ওয়ার্কশপের দোকান",
-          link: "grillshop-and-workshop"
+          link: "grillshop-and-workshop.html"
         }
       ]
   },
@@ -656,7 +656,7 @@ const categoryData = [
     id: 18,
     photo: "resources/icons/gift-corner.png",
     name: "গিফট কর্নার",
-    pageLink: "gift-corner",
+    pageLink: "gift-corner.html",
     subCategory:
       [
         {
@@ -669,7 +669,7 @@ const categoryData = [
         },
         {
           name: "ফুলের দোকান",
-          link: "flower-shop"
+          link: "flower-shop.html"
         }
       ]
   },
@@ -677,7 +677,7 @@ const categoryData = [
     id: 19,
     photo: "resources/icons/decorator.png",
     name: "ডেকোরেটর",
-    pageLink: "decorator",
+    pageLink: "decorator.html",
     subCategory:
       [
         {
@@ -694,7 +694,7 @@ const categoryData = [
         },
         {
           name: "ফুলের দোকান",
-          link: "flower-shop"
+          link: "flower-shop.html"
         }
       ]
   },
@@ -702,7 +702,7 @@ const categoryData = [
     id: 20,
     photo: "resources/icons/it-support.png",
     name: "আইটি সেবা",
-    pageLink: "it-support",
+    pageLink: "it-support.html",
     subCategory:
       [
         {
@@ -727,7 +727,7 @@ const categoryData = [
         },
         {
           name: "অ্যাপস ডেভেলপার",
-          link: "apps-developer"
+          link: "apps-developer.html"
         }
       ]
   },
@@ -735,7 +735,7 @@ const categoryData = [
     id: 21,
     photo: "resources/icons/cyber-bullying.png",
     name: "সাইবার বুলিং / ভোক্তা অধিকার",
-    pageLink: "cyber-bullying-and-consumer-rights",
+    pageLink: "cyber-bullying-and-consumer-rights.html",
     subCategory:
       [
         {
@@ -760,7 +760,7 @@ const categoryData = [
         },
         {
           name: "ভোক্তা অধিকার নিয়ম",
-          link: "consumer-rights-rules"
+          link: "consumer-rights-rules.html"
         }
       ]
   },
@@ -768,7 +768,7 @@ const categoryData = [
     id: 22,
     photo: "resources/icons/civic-service.png",
     name: "নাগরিক সেবা",
-    pageLink: "civic-service",
+    pageLink: "civic-service.html",
     subCategory:
       [
         {
@@ -805,7 +805,7 @@ const categoryData = [
         },
         {
           name: "কবরস্থান",
-          link: "cemetery"
+          link: "cemetery.html"
         }
       ]
   },
@@ -813,7 +813,7 @@ const categoryData = [
     id: 23,
     photo: "resources/icons/service-organization.png",
     name: "সেবামূলক সংগঠন",
-    pageLink: "service-organization",
+    pageLink: "service-organization.html",
     subCategory:
       [
         {
@@ -834,7 +834,7 @@ const categoryData = [
         },
         {
           name: "অনুষ্ঠান সঞ্চালনা",
-          link: "performing-the-ceremony"
+          link: "performing-the-ceremony.html"
         }
       ]
   },
@@ -842,7 +842,7 @@ const categoryData = [
     id: 24,
     photo: "resources/icons/materials-under-construction.png",
     name: "নির্মাণাধীন সামগ্রী",
-    pageLink: "materials-under-construction",
+    pageLink: "materials-under-construction.html",
     subCategory:
       [
         {
@@ -867,7 +867,7 @@ const categoryData = [
         },
         {
           name: "হোম ডেকোর",
-          link: "home-decor"
+          link: "home-decor.html"
         }
       ]
   },
@@ -875,7 +875,7 @@ const categoryData = [
     id: 25,
     photo: "resources/icons/market.png",
     name: "মার্কেট",
-    pageLink: "market",
+    pageLink: "market.html",
     subCategory:
       [
         {
@@ -896,7 +896,7 @@ const categoryData = [
         },
         {
           name: "কসমিটিক্স এর বাজার",
-          link: "cosmetics-market"
+          link: "cosmetics-market.html"
         }
       ]
   },
@@ -904,7 +904,7 @@ const categoryData = [
     id: 26,
     photo: "resources/icons/banking-services.png",
     name: "ব্যাংকিং সেবা",
-    pageLink: "banking-services",
+    pageLink: "banking-services.html",
     subCategory:
       [
         // {
@@ -921,7 +921,7 @@ const categoryData = [
         },
         {
           name: "কিস্তি অফিস",
-          link: "installment-office"
+          link: "installment-office.html"
         }
       ]
   },
@@ -929,7 +929,7 @@ const categoryData = [
     id: 27,
     photo: "resources/icons/religious-place.png",
     name: "ধর্মীয় স্থান",
-    pageLink: "religious-place",
+    pageLink: "religious-place.html",
     subCategory:
       [
         {
@@ -946,7 +946,7 @@ const categoryData = [
         },
         {
           name: "কবরস্থান",
-          link: "cemetery"
+          link: "cemetery.html"
         }
       ]
   },
@@ -954,7 +954,7 @@ const categoryData = [
     id: 28,
     photo: "resources/icons/tourist-spot.png",
     name: "ঘোরার জায়গা",
-    pageLink: "visitors-place",
+    pageLink: "visitors-place.html",
     subCategory:
       [
         {
@@ -971,7 +971,7 @@ const categoryData = [
         },
         {
           name: "নার্সারী",
-          link: "nursery"
+          link: "nursery.html"
         }
       ]
   },
@@ -979,7 +979,7 @@ const categoryData = [
     id: 29,
     photo: "resources/icons/car-stand.png",
     name: "গাড়ী স্ট্যান্ড",
-    pageLink: "car-stand",
+    pageLink: "car-stand.html",
     subCategory:
       [
         {
@@ -996,7 +996,7 @@ const categoryData = [
         },
         {
           name: "অটো স্ট্যান্ড",
-          link: "auto-stand"
+          link: "auto-stand.html"
         }
       ]
   }
@@ -1005,7 +1005,7 @@ const categoryData = [
     id: 30,
     photo: "resources/icons/land-development.png",
     name: "ল্যান্ড ডেভেলপমেন্ট",
-    pageLink: "land-development",
+    pageLink: "land-development.html",
     subCategory:
       [
         {
@@ -1018,7 +1018,7 @@ const categoryData = [
         },
         {
           name: "ফ্লাট বিক্রি",
-          link: "flats-for-sale"
+          link: "flats-for-sale.html"
         }
       ]
   },
@@ -1026,7 +1026,7 @@ const categoryData = [
     id: 31,
     photo: "resources/icons/mills-factory-garments.png",
     name: "মিলস / ফ্যাক্টরি / গার্মেন্ট",
-    pageLink: "mills-factory-garments",
+    pageLink: "mills-factory-garments.html",
     subCategory:
       [
         {
@@ -1039,7 +1039,7 @@ const categoryData = [
         },
         {
           name: "গার্মেন্ট",
-          link: "garments.html"
+          link: "garments.html.html"
         }
       ]
   }
