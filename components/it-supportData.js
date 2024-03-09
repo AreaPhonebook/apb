@@ -33,7 +33,7 @@ const categoryData = [
       id: 6,
       photo: "resources/icons/it-support/apps-developer.png",
       name: "অ্যাপস ডেভেলপার",
-      link: "apps-developer"
+      link: "apps-developer.html"
     }
   ];
   

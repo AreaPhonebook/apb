@@ -64,7 +64,7 @@ const categoryData = [
       id: 11,
       photo: "resources/icons/our-kutubpur/freedom-fighters.png",
       name: "মুক্তিযোদ্ধা",
-      link: "freedom-fighters"
+      link: "freedom-fighters.html"
     }
   ];
   

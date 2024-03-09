@@ -57,7 +57,7 @@ const categoryData = [
       id: 10,
       photo: "resources/icons/medical-services/ophthalmology.png",
       name: "চক্ষু চিকিৎসালয়",
-      link: "ophthalmology"
+      link: "ophthalmology.html"
     }
   ];
   

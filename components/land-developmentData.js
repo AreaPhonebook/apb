@@ -15,7 +15,7 @@ const categoryData = [
       id: 3,
       photo: "resources/icons/land-development/flats-for-sale.png",
       name: "ফ্লাট বিক্রি",
-      link: "flats-for-sale"
+      link: "flats-for-sale.html"
     }
   ];
   

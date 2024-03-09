@@ -51,7 +51,7 @@ const categoryData = [
       id: 9,
       photo: "resources/icons/servicing-center/sewing-machine-servicing.png",
       name: "সেলাই মেশিন সার্ভিসিং",
-      link: "sewing-machine-servicing"
+      link: "sewing-machine-servicing.html"
     }
   ];
   

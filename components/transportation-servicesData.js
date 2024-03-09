@@ -57,7 +57,7 @@ const categoryData = [
       id: 10,
       photo: "resources/icons/transportation-services/watercraft.png",
       name: "জলযান",
-      link: "watercraft"
+      link: "watercraft.html"
     }
   ];
   

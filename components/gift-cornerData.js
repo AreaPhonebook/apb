@@ -15,7 +15,7 @@ const categoryData = [
       id: 3,
       photo: "resources/icons/gift-corner/flower-shop.png",
       name: "ফুলের দোকান",
-      link: "flower-shop"
+      link: "flower-shop.html"
     }
   ];
   

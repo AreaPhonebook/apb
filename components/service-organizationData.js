@@ -27,7 +27,7 @@ const categoryData = [
       id: 5,
       photo: "resources/icons/service-organization/performing-the-ceremony.png",
       name: "অনুষ্ঠান সঞ্চালনা",
-      link: "performing-the-ceremony"
+      link: "performing-the-ceremony.html"
     }
   ];
   

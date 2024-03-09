@@ -21,7 +21,7 @@ const categoryData = [
       id: 4,
       photo: "resources/icons/studio-computer-shop/printing-press.png",
       name: "প্রিন্টিং প্রেস",
-      link: "printing-press"
+      link: "printing-press.html"
     }
   ];
   

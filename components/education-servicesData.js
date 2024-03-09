@@ -39,7 +39,7 @@ const categoryData = [
       id: 7,
       photo: "resources/icons/education-services/all-services-of-educational-institutions.png",
       name: "শিক্ষা প্রতিষ্ঠানের সকল সেবা",
-      link: "all-services-of-educational-institutions"
+      link: "all-services-of-educational-institutions.html"
     }
   ];
   

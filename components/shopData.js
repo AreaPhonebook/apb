@@ -75,7 +75,7 @@ const categoryData = [
       id: 13,
       photo: "resources/icons/shop/furniture.png",
       name: "ফার্নিচার",
-      link: "furniture"
+      link: "furniture.html"
     },
   ];
   

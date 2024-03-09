@@ -3,7 +3,7 @@ const categoryData = [
       id: 1,
       photo: "resources/icons/area-based-online-service/news.png",
       name: "নিউজ",
-      link: "news"
+      link: "news.html"
     },  
     {
       id: 2,

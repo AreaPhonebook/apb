@@ -15,7 +15,7 @@ const categoryData = [
       id: 3,
       photo: "resources/icons/mills-factory-garments/garments.png",
       name: "গার্মেন্ট",
-      link: "garments"
+      link: "garments.html"
     }
   ];
   

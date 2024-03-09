@@ -21,7 +21,7 @@ const categoryData = [
       id: 4,
       photo: "resources/icons/banking-services/installment-office.png",
       name: "কিস্তি অফিস",
-      link: "installment-office"
+      link: "installment-office.html"
     }
   ];
   

@@ -15,7 +15,7 @@ const categoryData = [
       id: 3,
       photo: "resources/icons/blood-donation/blood-donor.png",
       name: "রক্তদাতা",
-      link: "blood-donor"
+      link: "blood-donor.html"
     }
   ];
   

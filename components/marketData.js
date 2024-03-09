@@ -27,7 +27,7 @@ const categoryData = [
       id: 5,
       photo: "resources/icons/market/cosmetics-market.png",
       name: "কসমিটিক্স এর বাজার",
-      link: "cosmetics-market"
+      link: "cosmetics-market.html"
     }
   ];
   

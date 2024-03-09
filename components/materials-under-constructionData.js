@@ -33,7 +33,7 @@ const categoryData = [
       id: 6,
       photo: "resources/icons/materials-under-construction/home-decor.png",
       name: "হোম ডেকোর",
-      link: "home-decor"
+      link: "home-decor.html"
     }
   ];
   

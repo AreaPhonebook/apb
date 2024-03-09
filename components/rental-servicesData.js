@@ -39,7 +39,7 @@ const categoryData = [
       id: 7,
       photo: "resources/icons/rental-services/internet-service.png",
       name: "ইন্টারনেট সেবা",
-      link: "internet-service"
+      link: "internet-service.html"
     }
   ];
   

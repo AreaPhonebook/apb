@@ -57,7 +57,7 @@ const categoryData = [
       id: 10,
       photo: "resources/icons/training-center/gym.png",
       name: "Gym",
-      link: "gym"
+      link: "gym.html"
     }
   ];
   

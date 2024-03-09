@@ -45,7 +45,7 @@ const categoryData = [
       id: 8,
       photo: "resources/icons/food-corner_food-store/fruit-shop.png",
       name: "ফলের দোকান",
-      link: "fruit-shop"
+      link: "fruit-shop.html"
     }
   ];
   

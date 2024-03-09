@@ -21,7 +21,7 @@ const categoryData = [
       id: 4,
       photo: "resources/icons/car-stand/auto-stand.png",
       name: "অটো স্ট্যান্ড",
-      link: "auto-stand"
+      link: "auto-stand.html"
     }
   ];
   

@@ -33,7 +33,7 @@ const categoryData = [
       id: 6,
       photo: "resources/icons/cyber-bullying-and-consumer-rights/consumer-rights-rules.png",
       name: "ভোক্তা অধিকার নিয়ম",
-      link: "consumer-rights-rules"
+      link: "consumer-rights-rules.html"
     }
   ];
   

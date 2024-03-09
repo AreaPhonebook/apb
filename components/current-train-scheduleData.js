@@ -15,7 +15,7 @@ const categoryData = [
       id: 3,
       photo: "resources/icons/current-train-schedule/western-train.png",
       name: "পশ্চিমাঞ্চল",
-      link: "western-train"
+      link: "western-train.html"
     }
   ];
   

@@ -21,7 +21,7 @@ const categoryData = [
       id: 4,
       photo: "resources/icons/parlor-salon/cosmetics-shop.png",
       name: "কসমিটিক্স এর দোকান",
-      link: "cosmetics-shop"
+      link: "cosmetics-shop.html"
     }
   ];
   

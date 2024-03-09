@@ -21,7 +21,7 @@ const categoryData = [
       id: 4,
       photo: "resources/icons/visitors-place/nursery.png",
       name: "নার্সারী",
-      link: "nursery"
+      link: "nursery.html"
     }
   ];
   

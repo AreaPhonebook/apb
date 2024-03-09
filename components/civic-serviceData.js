@@ -51,7 +51,7 @@ const categoryData = [
       id: 9,
       photo: "resources/icons/civic-service/cemetery.png",
       name: "কবরস্থান",
-      link: "cemetery"
+      link: "cemetery.html"
     }
   ];
   

@@ -33,7 +33,7 @@ const categoryData = [
       id: 6,
       photo: "resources/icons/mechanic/lock-key-mechanic.png",
       name: "তালা-চাবি মিস্ত্রী",
-      link: "lock-key-mechanic"
+      link: "lock-key-mechanic.html"
     }
   ];
   
